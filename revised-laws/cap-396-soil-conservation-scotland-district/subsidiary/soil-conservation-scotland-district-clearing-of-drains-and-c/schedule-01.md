@@ -1,0 +1,25 @@
+SCHEDULE
+CONSERVATION AREA
+For the purposes of this Act, the Scotland District is presumed to be
+contained within the boundary line between the parishes of St. Andrew and St.
+Peter beginning at a point on the seashore near Pica Teneriffe continuing on the
+same boundary line to the point where the boundary line between the parishes
+of St. Peter and St. James meets it; continuing on the boundary line between the
+parishes of St. James and St. Andrew to the point where the boundaty line
+between the parishes of St. James and St. Thomas meets ic continuing along
+the boundary line between the parishes of St. Andrew and St. Thomas to
+THE LAWS OF BARBADOS
+Rind by the Gw-et P&in& Depurmat, Bv St&S St. Mkhd.
+b y the l
+bority of the Oovsmnmt of Bubnda
+(Clearing of Drains and Culverts)
+Order, 1959
+Highclere and thence along the public highway from Highclere to Canefield, to
+Carrington’s Village, to Bloomsbury, to Chimborazo, to Castle Grant; thence
+by a line from Castle Grant to the top of Horse Hill; thence by a line following
+the limestone escarpment known as Hackletons Cliff to St. John’s Church,
+Coach Hill, Codrington High School, Stewart Hill and then along the boundary
+line between the parishes of St. John and St. Philip to the point where it meets
+the sea south of Consett Point and then following the seashore northwards to
+the point (the starting point) where the boundary line between the parishes of
+St. Peter and St. Andrew meets the sea south of Pica Teneriffe.
