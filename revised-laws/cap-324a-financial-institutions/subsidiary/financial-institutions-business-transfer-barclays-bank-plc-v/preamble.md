@@ -1,0 +1,5 @@
+Transfer)(Barclays Bank PLC) Vesting Order, 2002
+paras.1-4
+Financial Institutions
+FINANCIAL INSTITUTIONS (BUSINESS TRANSFER)
+(BARCLAYS BANK PLC) VESTING ORDER, 2002
