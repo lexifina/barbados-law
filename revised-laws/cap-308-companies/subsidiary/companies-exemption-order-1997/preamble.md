@@ -1,0 +1,4 @@
+Order, 1997
+paras.1-2
+Companies
+COMPANIES ACT (EXEMPTION) ORDER, 1997
