@@ -1,0 +1,22 @@
+69D. Where the hearing of any proceedings has commenced
+Procedure
+where
+before a Master and
+hearing is
+not
+(a) prior to the conclusion of the hearing, the Master ceases either
+concluded.
+permanently or temporarily to hold office, the Master may,
+2006-4.
+whether or not he has reserved judgment, be assigned at any
+time to be the Master for the purpose of concluding the
+hearing;
+(b) the Master has reserved judgment but ceases to hold office
+before he has delivered his judgment, the Master may at any
+time lodge with the Registrar the judgment in writing; and the
+judgment shall
+(i) as soon as possible thereafter be read in Chambers in
+accordance with the directions of the Chief Justice; and
+(ii) take effect in all respects as if the person who reserved
+judgment had continued to be the Master and had
+delivered judgment.
