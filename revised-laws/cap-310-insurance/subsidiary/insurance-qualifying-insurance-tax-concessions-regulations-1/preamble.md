@@ -1,0 +1,5 @@
+(Tax Concessions) Regulations, 1998
+regs.1-2
+Insurance
+INSURANCE (QUALIFYING INSURANCE)
+(TAX CONCESSIONS) REGULATIONS, 1998
