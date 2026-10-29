@@ -1,0 +1,47 @@
+{
+ "country": "BB",
+ "acts": [
+  {
+   "slug": "computer-misuse",
+   "short": "Computer Misuse",
+   "title": "Computer Misuse Act, Cap. 124B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ComputerMisuseCAP124B.pdf",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 22,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ComputerMisuseCAP124B.pdf",
+     "sha256": "45fe541106639bee437879c47ebff639fcb0164ee44bfb2157964d0356234b7a"
+    }
+   ]
+  },
+  {
+   "slug": "anti-terrorism",
+   "short": "Anti-Terrorism",
+   "title": "Anti-Terrorism Act, Cap. 158",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Anti-TerrorismCAP158.pdf",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 17,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Anti-TerrorismCAP158.pdf",
+     "sha256": "1955f0f96336da639d7a1ab848d4c266d02ef84c43d95dfd150f511126cbed70"
+    }
+   ]
+  },
+  {
+   "slug": "bail",
+   "short": "Bail",
+   "title": "Bail Act, Cap. 122A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/BailCAP122A.pdf",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 21,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/BailCAP122A.pdf",
+     "sha256": "fc2bc5fa8b564c082d9f38a9a7b103f917fbb62f8107ac30a25039945df885d1"
+    }
+   ]
+  }
+ ]
+}
