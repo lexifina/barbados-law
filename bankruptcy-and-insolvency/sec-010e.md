@@ -1,0 +1,4 @@
+# 10E. Rights of receiver.
+A receiver
+(a) may, subject to the rights of secured creditors, receive the income from the property, pay the liability connected with the property, and realize the security interest of those on behalf of whom he is appointed; and
+(b) may not, unless appointed a receiver-manager or unless the Court orders otherwise, carry on the business of the debtor for more than 14 days after his appointment.

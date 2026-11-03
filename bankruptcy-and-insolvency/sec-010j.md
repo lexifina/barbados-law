@@ -1,0 +1,2 @@
+# 10J. Court may order statement of accounts to be submitted for review.
+On the application of the Supervisor, the debtor, the trustee (in the case of a bankrupt) or a creditor, made within 6 months after the statement of accounts was provided to the Supervisor pursuant to section 10C(g), the Court may order the receiver to submit the statement of accounts to the Court for review, and the Court may adjust, in such manner and to such extent as it considers proper, the fees and charges of the receiver as set out in the statement of accounts.

@@ -1,0 +1,2 @@
+# 10A. Who may be a receiver.
+Only a person who is licensed as a trustee under this Act may be appointed a receiver under a security agreement.
