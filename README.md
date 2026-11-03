@@ -75,6 +75,35 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `limitation-and-prescription/` | Limitation and Prescription Act, Cap. 232 | 1 | 2026-11-03, oldest version available |
 | `limitationof-actions/` | Limitationof Actions Act, Cap. 231 | 1 | 1997-10-01, commencement (never amended in this edition) |
 | `magistrates-courts/` | Magistrate's Courts Act, Cap. 116A | 1 | 2026-11-03, oldest version available |
+| `marine-pollution-control/` | Marine Pollution Control Act, Cap. 392A | 1 | 2026-11-03, oldest version available |
+| `maritime-international-co-operation/` | Maritime International Co-operation Act, Cap. 013C | 1 | 1998-09-10, commencement (never amended in this edition) |
+| `minor-offences/` | Minor Offences Act, Cap. 137 | 1 | 1998-02-05, commencement (never amended in this edition) |
+| `money-laundering-and-financing-of-terrorism-prevention-and-control/` | Money Laundering and Financing of Terrorism (Prevention and Control) Act, Cap. 129 | 1 | 2026-11-03, oldest version available |
+| `mutual-funds/` | Mutual Funds Act, Cap. 320B | 1 | 2002-12-12, commencement (never amended in this edition) |
+| `national-art-gallery/` | National Art Gallery Act, Cap. 048B | 1 | 2026-11-03, oldest version available |
+| `national-union-of-public-workers-guarantee-of-loan/` | National Union of Public Workers (Guarantee of Loan) Act, Cap. 100 | 1 | 2007-12-20, commencement (never amended in this edition) |
+| `nurses/` | Nurses Act, Cap. 372 | 1 | 2008-12-01, commencement (never amended in this edition) |
+| `occupational-pension-benefits/` | Occupational Pension Benefits Act, Cap. 350B | 1 | 2026-11-03, oldest version available |
+| `offshore-petroleum/` | Offshore Petroleum Act, Cap. 282A | 1 | 2026-11-03, oldest version available |
+| `offshore-petroleum-taxation/` | Offshore Petroleum (Taxation) Act, Cap. 080 | 1 | 2026-11-03, oldest version available |
+| `order-of-national-heroes/` | Order of National Heroes Act, Cap. 399 | 1 | 1998-04-20, commencement (never amended in this edition) |
+| `passports-and-travel-documents-fees/` | Passports and Travel Documents (Fees) Act, Cap. 081 | 1 | 2026-11-03, oldest version available |
+| `patents/` | Patents Act, Cap. 314 | 1 | 2026-11-03, oldest version available |
+| `penal-system-reform/` | Penal System Reform Act, Cap. 139 | 1 | 2026-11-03, oldest version available |
+| `pierhead-development/` | Pierhead Development Act, Cap. 394A | 1 | 2026-11-03, oldest version available |
+| `police-complaints-authority/` | Police Complaints Authority Act, Cap. 167A | 1 | 2026-11-03, oldest version available |
+| `port-st-charles-development/` | Port St.Charles Development Act, Cap. 234 | 1 | 2000-12-01, commencement (never amended in this edition) |
+| `prevention-of-cruelty-to-animals/` | Prevention of Cruelty to Animals Act, Cap. 144A | 1 | 2026-11-03, oldest version available |
+| `property-transfer-tax/` | Property Transfer Tax Act, Cap. 084A | 1 | 2026-11-03, oldest version available |
+| `protection-against-unfair-competition/` | Protection Against Unfair Competition Act, Cap. 329A | 1 | 2001-02-19, commencement (never amended in this edition) |
+| `protection-of-new-plant-varieties/` | Protection of New Plant Varieties Act, Cap. 267 | 1 | 2001-08-06, commencement (never amended in this edition) |
+| `public-accounts-committee/` | Public Accounts Committee Act, Cap. 010A | 1 | 2003-07-14, commencement (never amended in this edition) |
+| `public-service/` | Public Service Act, Cap. 029 | 1 | 2026-11-03, oldest version available |
+| `public-service-restoration-of-emoluments/` | Public Service (Restoration of Emoluments) Act, Cap. 031A | 1 | 2026-11-03, oldest version available |
+| `queen-elizabeth-hospital/` | Queen Elizabeth Hospital Act, Cap. 054 | 1 | 2026-11-03, oldest version available |
+| `referendum/` | Referendum Act, Cap. 011A | 1 | 2026-11-03, oldest version available |
+| `regional-security-system/` | Regional Security System Act, Cap. 174B | 1 | 2026-11-03, oldest version available |
+| `repatriation-of-prisoners/` | Repatriation of Prisoners Act, Cap. 168B | 1 | 2026-11-03, oldest version available |
 <!-- acts:end -->
 
 Language: English. The text is that of the born-digital PDFs published by the Barbados Law Courts; the older scanned Acts (the Constitution, for one) have only an OCR text layer and are not included.

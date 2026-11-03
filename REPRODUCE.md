@@ -10,6 +10,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-11-03 | no licence stated; site footer "Copyright Barbados Judicial System. All Rights Reserved." |
 | Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-11-03 | no licence stated; site footer "Copyright Barbados Judicial System. All Rights Reserved." |
 | Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-11-03 | no licence stated; site footer "Copyright Barbados Judicial System. All Rights Reserved." |
+| Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-11-03 | no licence stated; site footer "Copyright Barbados Judicial System. All Rights Reserved." |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -83,20 +84,49 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `limitation-and-prescription` | Limitation and Prescription Act, Cap. 232 | 1 | 2026-11-03 to 2026-11-03 |
 | `limitationof-actions` | Limitationof Actions Act, Cap. 231 | 1 | 1997-10-01 to 1997-10-01 |
 | `magistrates-courts` | Magistrate's Courts Act, Cap. 116A | 1 | 2026-11-03 to 2026-11-03 |
+| `marine-pollution-control` | Marine Pollution Control Act, Cap. 392A | 1 | 2026-11-03 to 2026-11-03 |
+| `maritime-international-co-operation` | Maritime International Co-operation Act, Cap. 013C | 1 | 1998-09-10 to 1998-09-10 |
+| `minor-offences` | Minor Offences Act, Cap. 137 | 1 | 1998-02-05 to 1998-02-05 |
+| `money-laundering-and-financing-of-terrorism-prevention-and-control` | Money Laundering and Financing of Terrorism (Prevention and Control) Act, Cap. 129 | 1 | 2026-11-03 to 2026-11-03 |
+| `mutual-funds` | Mutual Funds Act, Cap. 320B | 1 | 2002-12-12 to 2002-12-12 |
+| `national-art-gallery` | National Art Gallery Act, Cap. 048B | 1 | 2026-11-03 to 2026-11-03 |
+| `national-union-of-public-workers-guarantee-of-loan` | National Union of Public Workers (Guarantee of Loan) Act, Cap. 100 | 1 | 2007-12-20 to 2007-12-20 |
+| `nurses` | Nurses Act, Cap. 372 | 1 | 2008-12-01 to 2008-12-01 |
+| `occupational-pension-benefits` | Occupational Pension Benefits Act, Cap. 350B | 1 | 2026-11-03 to 2026-11-03 |
+| `offshore-petroleum-taxation` | Offshore Petroleum (Taxation) Act, Cap. 080 | 1 | 2026-11-03 to 2026-11-03 |
+| `offshore-petroleum` | Offshore Petroleum Act, Cap. 282A | 1 | 2026-11-03 to 2026-11-03 |
+| `order-of-national-heroes` | Order of National Heroes Act, Cap. 399 | 1 | 1998-04-20 to 1998-04-20 |
+| `passports-and-travel-documents-fees` | Passports and Travel Documents (Fees) Act, Cap. 081 | 1 | 2026-11-03 to 2026-11-03 |
+| `patents` | Patents Act, Cap. 314 | 1 | 2026-11-03 to 2026-11-03 |
+| `penal-system-reform` | Penal System Reform Act, Cap. 139 | 1 | 2026-11-03 to 2026-11-03 |
+| `pierhead-development` | Pierhead Development Act, Cap. 394A | 1 | 2026-11-03 to 2026-11-03 |
+| `police-complaints-authority` | Police Complaints Authority Act, Cap. 167A | 1 | 2026-11-03 to 2026-11-03 |
+| `port-st-charles-development` | Port St.Charles Development Act, Cap. 234 | 1 | 2000-12-01 to 2000-12-01 |
+| `prevention-of-cruelty-to-animals` | Prevention of Cruelty to Animals Act, Cap. 144A | 1 | 2026-11-03 to 2026-11-03 |
+| `property-transfer-tax` | Property Transfer Tax Act, Cap. 084A | 1 | 2026-11-03 to 2026-11-03 |
+| `protection-against-unfair-competition` | Protection Against Unfair Competition Act, Cap. 329A | 1 | 2001-02-19 to 2001-02-19 |
+| `protection-of-new-plant-varieties` | Protection of New Plant Varieties Act, Cap. 267 | 1 | 2001-08-06 to 2001-08-06 |
+| `public-accounts-committee` | Public Accounts Committee Act, Cap. 010A | 1 | 2003-07-14 to 2003-07-14 |
+| `public-service-restoration-of-emoluments` | Public Service (Restoration of Emoluments) Act, Cap. 031A | 1 | 2026-11-03 to 2026-11-03 |
+| `public-service` | Public Service Act, Cap. 029 | 1 | 2026-11-03 to 2026-11-03 |
+| `queen-elizabeth-hospital` | Queen Elizabeth Hospital Act, Cap. 054 | 1 | 2026-11-03 to 2026-11-03 |
+| `referendum` | Referendum Act, Cap. 011A | 1 | 2026-11-03 to 2026-11-03 |
+| `regional-security-system` | Regional Security System Act, Cap. 174B | 1 | 2026-11-03 to 2026-11-03 |
+| `repatriation-of-prisoners` | Repatriation of Prisoners Act, Cap. 168B | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 66 commits:
+The build made 95 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 66 | first version of an act |
+| 95 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 120 laws in the record.
-- 95 tags.
+- 186 laws in the record.
+- 134 tags.
 
 ## Dates
 
@@ -108,7 +138,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ae878f23cac2fe476aa6134cfe797b028a3a734a9f45501fafc7ea2b29045ff8` (4154428 bytes).
+- Corpus: sha256 `75f171a9c6a3764acc10baab08536b24a67b6eaa9be7f5a5985c09ad2db8432f` (5232992 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -129,6 +159,8 @@ No second build of this corpus has been compared yet.
 - Marginal notes (section headings and amendment references) are not text: the heading becomes the section's first line and amendment references are dropped. Cross-headings ("PART II", "Citation") stay as lines where the print puts them.
 - Acts in parts 30-acts-*: each Act is one version, the Law Revision Office consolidation the Barbados Law Courts publish. The edition prints only its L.R.O. year. An Act whose long-title margin note names no amending Act is dated by the commencement date printed under its long title and credited to the Act; every other Act is dated by the day its text was retrieved and credited to the publisher as the oldest version available, naming the Acts in that note.
 - Marginal notes (section headings and amendment references) are not text: the heading becomes the section's first line and amendment references are dropped. Cross-headings ("PART II", "Citation") stay as lines where the print puts them.
+- Acts in parts 30-acts-*: each Act is one version, the Law Revision Office consolidation the Barbados Law Courts publish. The edition prints only its L.R.O. year. An Act whose long-title margin note names no amending Act is dated by the commencement date printed under its long title and credited to the Act; every other Act is dated by the day its text was retrieved and credited to the publisher as the oldest version available, naming the Acts in that note.
+- Marginal notes (section headings and amendment references) are not text: the heading becomes the section's first line and amendment references are dropped. Cross-headings ("PART II", "Citation") stay as lines where the print puts them.
 
 ## What AI did and did not do
 
@@ -140,6 +172,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code wrote the parser; it did not write or alter any legal text. 0 model calls at data-build time.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, which selects, dates and checks the Acts. No model wrote, summarised or transformed legal text: the reader is deterministic code over the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, which selects, dates and checks the Acts. No model wrote, summarised or transformed legal text: the reader is deterministic code over the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, which selects, dates and checks the Acts. No model wrote, summarised or transformed legal text: the reader is deterministic code over the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, which selects, dates and checks the Acts. No model wrote, summarised or transformed legal text: the reader is deterministic code over the PDF text layer.

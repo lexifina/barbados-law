@@ -924,6 +924,412 @@
      "sha256": "7b2b5f9365e097227fa4705fbbea87ed1a7c00e03137258b1309256764a02c04"
     }
    ]
+  },
+  {
+   "slug": "marine-pollution-control",
+   "short": "Marine Pollution Control",
+   "title": "Marine Pollution Control Act, Cap. 392A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/MarinePollutionControlCAP392A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 21,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/MarinePollutionControlCAP392A.pdf",
+     "sha256": "97aecfefc94b96da98996579b26a1201680dde4751a0cf1b3089dc0efaba6e39"
+    }
+   ]
+  },
+  {
+   "slug": "maritime-international-co-operation",
+   "short": "Maritime International Co-operation",
+   "title": "Maritime International Co-operation Act, Cap. 013C",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/MaritimeInternationalCo-operationCAP013C.pdf",
+   "versions": [
+    {
+     "from": "1998-09-10",
+     "units": 18,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/MaritimeInternationalCo-operationCAP013C.pdf",
+     "sha256": "59d431ebec86cde6c72503c72015017c7134be871acfe1895458f84ba350d827"
+    }
+   ]
+  },
+  {
+   "slug": "minor-offences",
+   "short": "Minor Offences",
+   "title": "Minor Offences Act, Cap. 137",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/MinorOffencesCAP137.pdf",
+   "versions": [
+    {
+     "from": "1998-02-05",
+     "units": 9,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/MinorOffencesCAP137.pdf",
+     "sha256": "c20be2f44f04e799fbced6b8e555d99888d786b41b825434431d028672e4be60"
+    }
+   ]
+  },
+  {
+   "slug": "money-laundering-and-financing-of-terrorism-prevention-and-control",
+   "short": "Money Laundering and Financing of Terrorism (Prevention and Control)",
+   "title": "Money Laundering and Financing of Terrorism (Prevention and Control) Act, Cap. 129",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/MoneyLaunderingandFinancingofTerrorism(PreventionandControl)CAP129.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 36,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/MoneyLaunderingandFinancingofTerrorism(PreventionandControl)CAP129.pdf",
+     "sha256": "ccfb78c38f4abef3b81673796e6173c999d8e49b9beda7481bb8b998726e63dd"
+    }
+   ]
+  },
+  {
+   "slug": "mutual-funds",
+   "short": "Mutual Funds",
+   "title": "Mutual Funds Act, Cap. 320B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/MutualFundsCAP320B.pdf",
+   "versions": [
+    {
+     "from": "2002-12-12",
+     "units": 60,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/MutualFundsCAP320B.pdf",
+     "sha256": "3ff82597abc0972efd506b5d813cd3693d4eb8a3919b987bfddaa1215565b4be"
+    }
+   ]
+  },
+  {
+   "slug": "national-art-gallery",
+   "short": "National Art Gallery",
+   "title": "National Art Gallery Act, Cap. 048B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/NationalArtGalleryCAP048B.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 29,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/NationalArtGalleryCAP048B.pdf",
+     "sha256": "4c25f6f438ad9c82e89bd4496b0a949d2fab9c81428f1893cab6842828f0f3ca"
+    }
+   ]
+  },
+  {
+   "slug": "national-union-of-public-workers-guarantee-of-loan",
+   "short": "National Union of Public Workers (Guarantee of Loan)",
+   "title": "National Union of Public Workers (Guarantee of Loan) Act, Cap. 100",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/NationalUnionofPublicWorkers(GuaranteeofLoan)CAP100.pdf",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 9,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/NationalUnionofPublicWorkers(GuaranteeofLoan)CAP100.pdf",
+     "sha256": "a00e84025f3d333f2e0c58289f83d7d4efd670a00d73b13d74ce9248d79b929d"
+    }
+   ]
+  },
+  {
+   "slug": "nurses",
+   "short": "Nurses",
+   "title": "Nurses Act, Cap. 372",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/NursesCAP372.pdf",
+   "versions": [
+    {
+     "from": "2008-12-01",
+     "units": 42,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/NursesCAP372.pdf",
+     "sha256": "c1ce97c4c542c42b176827386e87098b4841d22c1caf92f50590f237846ad248"
+    }
+   ]
+  },
+  {
+   "slug": "occupational-pension-benefits",
+   "short": "Occupational Pension Benefits",
+   "title": "Occupational Pension Benefits Act, Cap. 350B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/OccupationalPensionBenefitsCAP350B.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 99,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/OccupationalPensionBenefitsCAP350B.pdf",
+     "sha256": "b8acf29953f56ccf6c4557db490bde0cae3c4fca2ae078cb44e84bf7cbe24391"
+    }
+   ]
+  },
+  {
+   "slug": "offshore-petroleum-taxation",
+   "short": "Offshore Petroleum (Taxation)",
+   "title": "Offshore Petroleum (Taxation) Act, Cap. 080",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/OffshorePetroleum(Taxation)CAP080.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 33,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/OffshorePetroleum(Taxation)CAP080.pdf",
+     "sha256": "386e5d116b1af836f078950073185b0174f780d40ad8baa56193bf811972e87f"
+    }
+   ]
+  },
+  {
+   "slug": "offshore-petroleum",
+   "short": "Offshore Petroleum",
+   "title": "Offshore Petroleum Act, Cap. 282A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/OffshorePetroleumCAP282A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 62,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/OffshorePetroleumCAP282A.pdf",
+     "sha256": "139c58dd03e73d2d0acceb9b1d74c04a28a9622a06915ccd64de5a981d105fb9"
+    }
+   ]
+  },
+  {
+   "slug": "order-of-national-heroes",
+   "short": "Order of National Heroes",
+   "title": "Order of National Heroes Act, Cap. 399",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/OrderofNationalHeroesCAP399.pdf",
+   "versions": [
+    {
+     "from": "1998-04-20",
+     "units": 13,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/OrderofNationalHeroesCAP399.pdf",
+     "sha256": "ba3f8470adb85bed6d670cea909ad7345cffd6f9072655a299cfcdc044ef34fa"
+    }
+   ]
+  },
+  {
+   "slug": "passports-and-travel-documents-fees",
+   "short": "Passports and Travel Documents (Fees)",
+   "title": "Passports and Travel Documents (Fees) Act, Cap. 081",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PassportsandTravelDocuments(Fees)CAP081.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 7,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PassportsandTravelDocuments(Fees)CAP081.pdf",
+     "sha256": "86d146230d65b34f581b457a1c068d02a42146f12a8852e32eebc5c6cb49b96c"
+    }
+   ]
+  },
+  {
+   "slug": "patents",
+   "short": "Patents",
+   "title": "Patents Act, Cap. 314",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PatentsCAP314.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 78,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PatentsCAP314.pdf",
+     "sha256": "a7b409110087af8bd837cd1bc7b9a7533a6686d7f2fdf353bac34cfce70a6166"
+    }
+   ]
+  },
+  {
+   "slug": "penal-system-reform",
+   "short": "Penal System Reform",
+   "title": "Penal System Reform Act, Cap. 139",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PenalSystemReformCAP139.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 46,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PenalSystemReformCAP139.pdf",
+     "sha256": "39617b137f8198eaab8753f882c63df05f373e9f9eac3b4732abeb23dec1900e"
+    }
+   ]
+  },
+  {
+   "slug": "pierhead-development",
+   "short": "Pierhead Development",
+   "title": "Pierhead Development Act, Cap. 394A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PierheadDevelopmentCAP394A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PierheadDevelopmentCAP394A.pdf",
+     "sha256": "ec00584bbc8eacb5a30268aa6b632a3f6fac96b4915c0fafa7d14dc4cd21a323"
+    }
+   ]
+  },
+  {
+   "slug": "police-complaints-authority",
+   "short": "Police Complaints Authority",
+   "title": "Police Complaints Authority Act, Cap. 167A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PoliceComplaintsAuthorityCAP167A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 34,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PoliceComplaintsAuthorityCAP167A.pdf",
+     "sha256": "a0e78be5e36e1a0c79b45707a7188edea919ecbc75f17049d3eec33e389e1bd9"
+    }
+   ]
+  },
+  {
+   "slug": "port-st-charles-development",
+   "short": "Port St.Charles Development",
+   "title": "Port St.Charles Development Act, Cap. 234",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PortSt.CharlesDevelopmentCAP234.pdf",
+   "versions": [
+    {
+     "from": "2000-12-01",
+     "units": 13,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PortSt.CharlesDevelopmentCAP234.pdf",
+     "sha256": "c9bc350eb7c677bd1eebb405a15c14a954a4b8a709f7b8d94c28e27e844144fc"
+    }
+   ]
+  },
+  {
+   "slug": "prevention-of-cruelty-to-animals",
+   "short": "Prevention of Cruelty to Animals",
+   "title": "Prevention of Cruelty to Animals Act, Cap. 144A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PreventionofCrueltytoAnimalsCAP144A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 21,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PreventionofCrueltytoAnimalsCAP144A.pdf",
+     "sha256": "ed198c47330189cc8554ae8fe699eae884c2066a681d99ae2e60f429882d5fa2"
+    }
+   ]
+  },
+  {
+   "slug": "property-transfer-tax",
+   "short": "Property Transfer Tax",
+   "title": "Property Transfer Tax Act, Cap. 084A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PropertyTransferTaxCAP084A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 28,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PropertyTransferTaxCAP084A.pdf",
+     "sha256": "50406ce81d3b5b8b33c5199cc0dd1bd646977015fadd25c7119630082b2a6ad3"
+    }
+   ]
+  },
+  {
+   "slug": "protection-against-unfair-competition",
+   "short": "Protection Against Unfair Competition",
+   "title": "Protection Against Unfair Competition Act, Cap. 329A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ProtectionAgainstUnfairCompetitionCAP329A.pdf",
+   "versions": [
+    {
+     "from": "2001-02-19",
+     "units": 11,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ProtectionAgainstUnfairCompetitionCAP329A.pdf",
+     "sha256": "6ff6286433e2d77645a9d20faef916fb747bfeec74b55a211550e4c2fed8d8bd"
+    }
+   ]
+  },
+  {
+   "slug": "protection-of-new-plant-varieties",
+   "short": "Protection of New Plant Varieties",
+   "title": "Protection of New Plant Varieties Act, Cap. 267",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ProtectionofNewPlantVarietiesCAP267.pdf",
+   "versions": [
+    {
+     "from": "2001-08-06",
+     "units": 58,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ProtectionofNewPlantVarietiesCAP267.pdf",
+     "sha256": "33a0fc6977594509f8b377d6ef007b240789afafccb6ee91e797439389693931"
+    }
+   ]
+  },
+  {
+   "slug": "public-accounts-committee",
+   "short": "Public Accounts Committee",
+   "title": "Public Accounts Committee Act, Cap. 010A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PublicAccountsCommitteeCAP010A.pdf",
+   "versions": [
+    {
+     "from": "2003-07-14",
+     "units": 24,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PublicAccountsCommitteeCAP010A.pdf",
+     "sha256": "c6e0bd7640365b397490cd42393f3b453a3c2cb8869e9bf9dcb1a87d1619b3c0"
+    }
+   ]
+  },
+  {
+   "slug": "public-service-restoration-of-emoluments",
+   "short": "Public Service (Restoration of Emoluments)",
+   "title": "Public Service (Restoration of Emoluments) Act, Cap. 031A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PublicService(RestorationofEmoluments)CAP031A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 6,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PublicService(RestorationofEmoluments)CAP031A.pdf",
+     "sha256": "bf14dba50f784ad0e73f3c459bedd3f1b115b49ca7f2f9a209b0359705360aa2"
+    }
+   ]
+  },
+  {
+   "slug": "public-service",
+   "short": "Public Service",
+   "title": "Public Service Act, Cap. 029",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PublicServiceCAP029.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 48,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/PublicServiceCAP029.pdf",
+     "sha256": "7d690612481536178703e8abc7561e9e1e0452dc7267668dae81fd8233dbabb9"
+    }
+   ]
+  },
+  {
+   "slug": "queen-elizabeth-hospital",
+   "short": "Queen Elizabeth Hospital",
+   "title": "Queen Elizabeth Hospital Act, Cap. 054",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/QueenElizabethHospitalCAP054.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 27,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/QueenElizabethHospitalCAP054.pdf",
+     "sha256": "5fdf9a00e7111e971c9ede5b57c505572e2cdfb3da2b93b1da316a5523dd8c0a"
+    }
+   ]
+  },
+  {
+   "slug": "referendum",
+   "short": "Referendum",
+   "title": "Referendum Act, Cap. 011A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ReferendumCAP011A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ReferendumCAP011A.pdf",
+     "sha256": "52c229f4bbdce094c14d078cfe1fb273aca9a1171176800800aed69f7aeaf398"
+    }
+   ]
+  },
+  {
+   "slug": "regional-security-system",
+   "short": "Regional Security System",
+   "title": "Regional Security System Act, Cap. 174B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/RegionalSecuritySystemCAP174B.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 40,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/RegionalSecuritySystemCAP174B.pdf",
+     "sha256": "100a04b8d00f8309b267fa19d7675cecb2e7be13a696fa85ffc850e79e983e10"
+    }
+   ]
+  },
+  {
+   "slug": "repatriation-of-prisoners",
+   "short": "Repatriation of Prisoners",
+   "title": "Repatriation of Prisoners Act, Cap. 168B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/RepatriationofPrisonersCAP168B.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 18,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/RepatriationofPrisonersCAP168B.pdf",
+     "sha256": "64289a12e392c201aa10bae8077eade662e9b7f20349e5cd078f622b0ff7fe7a"
+    }
+   ]
   }
  ]
 }
