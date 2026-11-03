@@ -1,0 +1,2 @@
+An Act to provide for the implementation by the Government of the provisions of the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation signed at Montreal on 23rd September, 1971 and the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation signed at Montreal on 24th February, 1988, and forconnected purposes.
+[5th September, 1976]
