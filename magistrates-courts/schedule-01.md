@@ -1,0 +1,14 @@
+FIRST SCHEDULE
+(Section 6)
+Magisterial Districts
+Barbados is hereby divided into the following magisterial districts:
+District "A" comprising
+(i) that part of the City of Bridgetown situate within the parish of Saint Michael and lying within the boundaries of that City and described as follows: by a line starting from a point on the sea coast and running due north to the southern end of Rendezvous Road, thence along the middle of Rendezvous Road to its junction with Highway 6, thence in a north-westerly direction along the middle of Highway 6 to its junction with the Wildey-Upton Road, thence along the middle of the Wildey-Upton Road to its junction with the St. Barnabas-Haggatt Hall Road, thence along the middle of the St. Barnabas- Haggatt Hall Road (Crossing Highway 5) to its junction with Highway 4, thence in a westerly direction along the middle of Highway 4 to its junction with the Belle Road, thence by a straight line to the junction of Highway 3 and Waterford Cross Road, thence along the northern side of Waterford Cross Road to its junction with Highway 2, thence in a northerly direction along the middle of Highway 2 to its junction with the White Hall- Cave Hill Road, thence along the middle of the White Hall-Cave Hill Road to the point at which this road crosses the boundary between the parishes of Saint Michael and Saint James, thence along the latter boundary to the sea coast and thence in a southerly direction along the sea coast to the point of commencement; and including the Port of Bridgetown as defined in the Second Schedule to the Barbados Harbours Act, together with the enclosed wharf area and waterfront of the Deep Water Harbour and the land vested in the Crown by section 3 of the Barbados Harbours Act;
+(ii) the remaining part of the said parish of Saint Michael not included in the City of Bridgetown as described in paragraph (i); and
+(iii) that part of the parish of Christ Church which lies to the west of a line drawn from the point where the parishes of Saint Michael, Saint George and Christ Church touch each other, to the point where the entrance to Adams Castle Plantation joins the main road and to the west of the road which joins this point with Highway 7, and to the west of a line drawn due south from this point to a pillar of stone which has been erected near the sea shore by the Public Works Department. Magistrate's Courts
+District "B" comprising the parishes of Christ Church and Saint George, with the exception of the portion of the parish of Christ Church included in District "A";
+District "C" comprising the parishes of Saint Philip and Saint John;
+District "D" comprising the parish of Saint Thomas;
+District "E" comprising the parishes of Saint Peter, Saint Lucy and Saint James;
+District "F" comprising the parishes of Saint Andrew and Saint Joseph.
+_______________
