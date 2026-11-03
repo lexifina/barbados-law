@@ -1,0 +1,4 @@
+# 146B. Revocation of approval.
+(1) The Supervisor may revoke any approval to carry on variable insurance business if the insurer fails to remedy a breach of any condition imposed in respect of such approval, within 90 days of its receipt of notice from the Supervisor, requiring the insurer to remedy such breach.
+(2) Where the Supervisor proposes to revoke approval granted to an insurer under section 146A for a breach of any condition imposed in respect of the approval, he shall notify the insurer of its right under section 177 to request the Supervisor to refer the proposal for review by the Minister.
+(3) Where the Supervisor revokes his approval under subsection (1), the insurer shall cease to issue any new policies in respect of its variable insurance business; and the Supervisor may take any further action as may be authorised by this Act. 108B

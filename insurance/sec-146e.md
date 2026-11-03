@@ -1,0 +1,2 @@
+# 146E. Authority to grant financial assistance with assets concerning separate account.
+Subject to the provisions of this Act, a company registered under this Act may grant advances, credit, financial guarantees or other forms of financial assistance with the assets allocated to or concerning a separate account without reference to the net value of the separate account.

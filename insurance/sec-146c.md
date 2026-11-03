@@ -1,0 +1,2 @@
+# 146C. Submission of reports, annual statements etc.
+An insurer authorised to carry on variable insurance business in accordance with this Act shall submit to the Supervisor, in addition to any other reports required under this Act, an annual statement of its variable insurance business including investment summaries in a form approved by the Supervisor, together with such additional information concerning its variable insurance operations or separate accounts as the Supervisor shall deem necessary.
