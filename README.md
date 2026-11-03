@@ -104,6 +104,33 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `referendum/` | Referendum Act, Cap. 011A | 1 | 2026-11-03, oldest version available |
 | `regional-security-system/` | Regional Security System Act, Cap. 174B | 1 | 2026-11-03, oldest version available |
 | `repatriation-of-prisoners/` | Repatriation of Prisoners Act, Cap. 168B | 1 | 2026-11-03, oldest version available |
+| `roman-catholic-bishop-of-bridgetown/` | Roman Catholic Bishop of Bridgetown Act, Cap. 375A | 1 | 2026-11-03, oldest version available |
+| `rural-development-commission/` | Rural Development Commission Act, Cap. 238 | 1 | 1996-03-01, commencement (never amended in this edition) |
+| `safety-and-health-at-work/` | Safety and Health at Work Act, Cap. 356 | 1 | 2026-11-03, oldest version available |
+| `scotland-district-authority/` | Scotland District Authority Act, Cap. 395B | 1 | 2026-11-03, oldest version available |
+| `securities/` | Securities Act, Cap. 318A | 1 | 2026-11-03, oldest version available |
+| `security-assistance-caricom-member-states/` | Security Assistance (CARICOM Member States) Act, Cap. 174C | 1 | 2007-03-12, commencement (never amended in this edition) |
+| `serial-bonds/` | Serial Bonds Act, Cap. 104B | 1 | 1997-12-25, commencement (never amended in this edition) |
+| `shipping-corporations/` | Shipping Corporations Act, Cap. 296B | 1 | 1996-09-09, commencement (never amended in this edition) |
+| `shipping-incentives/` | Shipping (Incentives) Act, Cap. 090A | 1 | 2026-11-03, oldest version available |
+| `small-business-development/` | Small Business Development Act, Cap. 318C | 1 | 2026-11-03, oldest version available |
+| `societies-with-restricted-liability/` | Societies With Restricted Liability Act, Cap. 318B | 1 | 2026-11-03, oldest version available |
+| `special-development-areas/` | Special Development Areas Act, Cap. 237A | 1 | 2026-11-03, oldest version available |
+| `st-john-ambulance-associationof-barbados-incorporation/` | St.John Ambulance Associationof Barbados (Incorporation) Act, Cap. 380C | 1 | 2003-12-25, commencement (never amended in this edition) |
+| `standards/` | Standards Act, Cap. 326A | 1 | 2006-06-01, commencement (never amended in this edition) |
+| `telecommunications/` | Telecommunications Act, Cap. 282B | 1 | 2026-11-03, oldest version available |
+| `tourism-development/` | Tourism Development Act, Cap. 341 | 1 | 2002-08-31, commencement (never amended in this edition) |
+| `trade-and-economic-co-operation-agreement-between-the-caribbean-community-carico/` | Trade and Economic Co-operation (Agreement between the Caribbean Community (CARICOM) and the Government of the Republic of Cuba) Act, Cap. 337 | 1 | 2006-04-13, commencement (never amended in this edition) |
+| `trade-economic-and-technical-agreement-agreement-between-the-caribbean-community/` | Trade, Economic and Technical Agreement (Agreement between the Caribbean Community and the Government of the Republic of Colombia) Act, Cap. 335 | 1 | 2006-04-13, commencement (never amended in this edition) |
+| `trade-marks/` | Trade Marks Act, Cap. 319 | 1 | 2026-11-03, oldest version available |
+| `trafalgar-square-change-of-name/` | Trafalgar Square (Change of Name) Act, Cap. 241A | 1 | 1999-04-26, commencement (never amended in this edition) |
+| `transport-authority/` | Transport Authority Act, Cap. 295A | 1 | 2026-11-03, oldest version available |
+| `travel-services/` | Travel Services Act, Cap. 373A | 1 | 2026-11-03, oldest version available |
+| `treasury-bills-and-tax-certificates/` | Treasury Bills and Tax Certificates Act, Cap. 106 | 1 | 2026-11-03, oldest version available |
+| `university-of-the-west-indies-guarantee-of-bonds/` | University of the West Indies (Guarantee of Bonds) Act, Cap. 106A | 1 | 2026-11-03, oldest version available |
+| `university-of-the-west-indies-guarantee-of-loans/` | University of the West Indies (Guarantee of Loans) Act, Cap. 106B | 1 | 2007-08-16, commencement (never amended in this edition) |
+| `urban-development-commission/` | Urban Development Commission Act, Cap. 241 | 1 | 2026-11-03, oldest version available |
+| `utilities-regulation/` | Utilities Regulation Act, Cap. 282 | 1 | 2026-11-03, oldest version available |
 <!-- acts:end -->
 
 Language: English. The text is that of the born-digital PDFs published by the Barbados Law Courts; the older scanned Acts (the Constitution, for one) have only an OCR text layer and are not included.

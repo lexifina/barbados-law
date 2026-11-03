@@ -1330,6 +1330,384 @@
      "sha256": "64289a12e392c201aa10bae8077eade662e9b7f20349e5cd078f622b0ff7fe7a"
     }
    ]
+  },
+  {
+   "slug": "roman-catholic-bishop-of-bridgetown",
+   "short": "Roman Catholic Bishop of Bridgetown",
+   "title": "Roman Catholic Bishop of Bridgetown Act, Cap. 375A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/RomanCatholicBishopofBridgetownCAP375A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 7,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/RomanCatholicBishopofBridgetownCAP375A.pdf",
+     "sha256": "2a8bc4375bd686d884593b5aa99597e1d32471d778adb2589518c8a025e6387b"
+    }
+   ]
+  },
+  {
+   "slug": "rural-development-commission",
+   "short": "Rural Development Commission",
+   "title": "Rural Development Commission Act, Cap. 238",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/RuralDevelopmentCommissionCAP238.pdf",
+   "versions": [
+    {
+     "from": "1996-03-01",
+     "units": 21,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/RuralDevelopmentCommissionCAP238.pdf",
+     "sha256": "a0eb85b3f69d90bf7bcfb8bd1669f95353749e54b97c50cad8c786de30727fc7"
+    }
+   ]
+  },
+  {
+   "slug": "safety-and-health-at-work",
+   "short": "Safety and Health at Work",
+   "title": "Safety and Health at Work Act, Cap. 356",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SafetyandHealthatWorkCAP356.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 142,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SafetyandHealthatWorkCAP356.pdf",
+     "sha256": "89865523691f0fe6e3ad23bf7211e15207acfa876002f547c9462e368bf26e56"
+    }
+   ]
+  },
+  {
+   "slug": "scotland-district-authority",
+   "short": "Scotland District Authority",
+   "title": "Scotland District Authority Act, Cap. 395B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ScotlandDistrictAuthorityCAP395B.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 43,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ScotlandDistrictAuthorityCAP395B.pdf",
+     "sha256": "5c3293a066bba2f352ac5e696e8ff556e0a8088301e82a8087929e42ed74a035"
+    }
+   ]
+  },
+  {
+   "slug": "securities",
+   "short": "Securities",
+   "title": "Securities Act, Cap. 318A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SecuritiesCAP318A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 146,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SecuritiesCAP318A.pdf",
+     "sha256": "50c38e7a6d4b76aa319402b10c8e28c2c99fc71e003b2e3e868a96204c0c7602"
+    }
+   ]
+  },
+  {
+   "slug": "security-assistance-caricom-member-states",
+   "short": "Security Assistance (CARICOM Member States)",
+   "title": "Security Assistance (CARICOM Member States) Act, Cap. 174C",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SecurityAssistance(CaricomMemberStates)CAP174C.pdf",
+   "versions": [
+    {
+     "from": "2007-03-12",
+     "units": 6,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SecurityAssistance(CaricomMemberStates)CAP174C.pdf",
+     "sha256": "82c098f78cbb6db03775bcde9196a4cd95b51914818ca51234c373de165dc3d2"
+    }
+   ]
+  },
+  {
+   "slug": "serial-bonds",
+   "short": "Serial Bonds",
+   "title": "Serial Bonds Act, Cap. 104B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SerialBondsCAP104B.pdf",
+   "versions": [
+    {
+     "from": "1997-12-25",
+     "units": 13,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SerialBondsCAP104B.pdf",
+     "sha256": "437fa69dff8a3fe1096d5344cb9d57148133f207fae24e49ef8a3bc70569b44f"
+    }
+   ]
+  },
+  {
+   "slug": "shipping-incentives",
+   "short": "Shipping (Incentives)",
+   "title": "Shipping (Incentives) Act, Cap. 090A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Shipping(Incentives)CAP090A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 19,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Shipping(Incentives)CAP090A.pdf",
+     "sha256": "a766330740b4b728cad7616391d0c37d74bbc87a8acc194cd50d23d32f9e7b4f"
+    }
+   ]
+  },
+  {
+   "slug": "shipping-corporations",
+   "short": "Shipping Corporations",
+   "title": "Shipping Corporations Act, Cap. 296B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ShippingCorporationsCAP296B.pdf",
+   "versions": [
+    {
+     "from": "1996-09-09",
+     "units": 340,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ShippingCorporationsCAP296B.pdf",
+     "sha256": "f68ad9aef54a877be10f5ed230f79dbe33d6916487c2e9774b19a2ad75405c7c"
+    }
+   ]
+  },
+  {
+   "slug": "small-business-development",
+   "short": "Small Business Development",
+   "title": "Small Business Development Act, Cap. 318C",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SmallBusinessDevelopmentCAP318C.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 20,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SmallBusinessDevelopmentCAP318C.pdf",
+     "sha256": "1cd6ac4d1de904ae0e4aca27859fc8f268f760ba519e9ab74baa2ce5b86bfb39"
+    }
+   ]
+  },
+  {
+   "slug": "societies-with-restricted-liability",
+   "short": "Societies With Restricted Liability",
+   "title": "Societies With Restricted Liability Act, Cap. 318B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SocietiesWithRestrictedLiabilityCAP318B.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 68,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SocietiesWithRestrictedLiabilityCAP318B.pdf",
+     "sha256": "4c8e59e9bfabdd53fb8448576025dbeb0cbacce20c3cf18f05b90836226c3eee"
+    }
+   ]
+  },
+  {
+   "slug": "special-development-areas",
+   "short": "Special Development Areas",
+   "title": "Special Development Areas Act, Cap. 237A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SpecialDevelopmentAreasCAP237A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 20,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/SpecialDevelopmentAreasCAP237A.pdf",
+     "sha256": "0cf0b7abaf6caea1c733828fc1034e202da1a43b5fd786425efa6f6ddbffef2e"
+    }
+   ]
+  },
+  {
+   "slug": "st-john-ambulance-associationof-barbados-incorporation",
+   "short": "St.John Ambulance Associationof Barbados (Incorporation)",
+   "title": "St.John Ambulance Associationof Barbados (Incorporation) Act, Cap. 380C",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/St.JohnAmbulanceAssociationofBarbados(Incorporation)CAP380C.pdf",
+   "versions": [
+    {
+     "from": "2003-12-25",
+     "units": 12,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/St.JohnAmbulanceAssociationofBarbados(Incorporation)CAP380C.pdf",
+     "sha256": "0df91bf1b7a444a492a3ab9f3b6b53cca8f7a82b458f9043b3525a745dddc417"
+    }
+   ]
+  },
+  {
+   "slug": "standards",
+   "short": "Standards",
+   "title": "Standards Act, Cap. 326A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/StandardsCAP326A.pdf",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 38,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/StandardsCAP326A.pdf",
+     "sha256": "69a036a4cf0957f4203bd1f34f4625ecdbfca14f15052ed3fceb30ca9649f8a8"
+    }
+   ]
+  },
+  {
+   "slug": "telecommunications",
+   "short": "Telecommunications",
+   "title": "Telecommunications Act, Cap. 282B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TelecommunicationsCAP282B.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 125,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TelecommunicationsCAP282B.pdf",
+     "sha256": "e77f5c03bd7ae11851df8d66db671052245871ab909310aad9ae0f790abc5285"
+    }
+   ]
+  },
+  {
+   "slug": "tourism-development",
+   "short": "Tourism Development",
+   "title": "Tourism Development Act, Cap. 341",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TourismDevelopmentCAP341.pdf",
+   "versions": [
+    {
+     "from": "2002-08-31",
+     "units": 48,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TourismDevelopmentCAP341.pdf",
+     "sha256": "d5229538b9718611cea52fed7e26ad65086426faf78b902792628ea56f9e54f5"
+    }
+   ]
+  },
+  {
+   "slug": "trade-economic-and-technical-agreement-agreement-between-the-caribbean-community",
+   "short": "Trade, Economic and Technical Agreement (Agreement between the Caribbean Community and the Government of the Republic of Colombia)",
+   "title": "Trade, Economic and Technical Agreement (Agreement between the Caribbean Community and the Government of the Republic of Colombia) Act, Cap. 335",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Trade,EconomicandTechnicalAgreement(AgreementbetweentheCaribbeanCommunityandtheGovernmentoftheRepublicofColombia)CAP335.pdf",
+   "versions": [
+    {
+     "from": "2006-04-13",
+     "units": 6,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Trade,EconomicandTechnicalAgreement(AgreementbetweentheCaribbeanCommunityandtheGovernmentoftheRepublicofColombia)CAP335.pdf",
+     "sha256": "ab283b01d485b7b329af4baf4cd1f6c85755af46f337eb8fb3faca9b157c778a"
+    }
+   ]
+  },
+  {
+   "slug": "trade-marks",
+   "short": "Trade Marks",
+   "title": "Trade Marks Act, Cap. 319",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TradeMarksCAP319.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 86,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TradeMarksCAP319.pdf",
+     "sha256": "3cc2df0dea9becffb18f3b0fa613438ddb57a183fe969c36d3b025ff99f1fc2b"
+    }
+   ]
+  },
+  {
+   "slug": "trade-and-economic-co-operation-agreement-between-the-caribbean-community-carico",
+   "short": "Trade and Economic Co-operation (Agreement between the Caribbean Community (CARICOM) and the Government of the Republic of Cuba)",
+   "title": "Trade and Economic Co-operation (Agreement between the Caribbean Community (CARICOM) and the Government of the Republic of Cuba) Act, Cap. 337",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TradeandEconomicCo-operation(AgreementbetweentheCaribbeanCommunity(CARICOM)andtheGovernmentoftheRepublicofCuba)CAP337.pdf",
+   "versions": [
+    {
+     "from": "2006-04-13",
+     "units": 7,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TradeandEconomicCo-operation(AgreementbetweentheCaribbeanCommunity(CARICOM)andtheGovernmentoftheRepublicofCuba)CAP337.pdf",
+     "sha256": "9a0dbbc1908aa8602c2e5e5108db531a8fd82511e272d187b405d6f715228e42"
+    }
+   ]
+  },
+  {
+   "slug": "trafalgar-square-change-of-name",
+   "short": "Trafalgar Square (Change of Name)",
+   "title": "Trafalgar Square (Change of Name) Act, Cap. 241A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TrafalgarSquare(ChangeofName)CAP241A.pdf",
+   "versions": [
+    {
+     "from": "1999-04-26",
+     "units": 3,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TrafalgarSquare(ChangeofName)CAP241A.pdf",
+     "sha256": "046c7d74b13aceb02e079381ac22bf483766cdf307c2ae3d351a409a86784210"
+    }
+   ]
+  },
+  {
+   "slug": "transport-authority",
+   "short": "Transport Authority",
+   "title": "Transport Authority Act, Cap. 295A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TransportAuthorityCAP295A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 37,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TransportAuthorityCAP295A.pdf",
+     "sha256": "8b52a63fbbf0a37b9f96a52e17634801e1b03dfdcfa82fa263a4139e67e07f3d"
+    }
+   ]
+  },
+  {
+   "slug": "travel-services",
+   "short": "Travel Services",
+   "title": "Travel Services Act, Cap. 373A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TravelServicesCAP373A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 31,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TravelServicesCAP373A.pdf",
+     "sha256": "b7f83f78dfca8f27a7aa098623f9697834928dd339df863a950baab339630a02"
+    }
+   ]
+  },
+  {
+   "slug": "treasury-bills-and-tax-certificates",
+   "short": "Treasury Bills and Tax Certificates",
+   "title": "Treasury Bills and Tax Certificates Act, Cap. 106",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TreasuryBillsandTaxCertificatesCAP106.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 16,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/TreasuryBillsandTaxCertificatesCAP106.pdf",
+     "sha256": "ba768a2254fe5cd4c74dee7c26ef17e639181c17f7a58f75bff80d0e0450628d"
+    }
+   ]
+  },
+  {
+   "slug": "university-of-the-west-indies-guarantee-of-bonds",
+   "short": "University of the West Indies (Guarantee of Bonds)",
+   "title": "University of the West Indies (Guarantee of Bonds) Act, Cap. 106A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/UniversityoftheWestIndies(GuaranteeofBonds)CAP106A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/UniversityoftheWestIndies(GuaranteeofBonds)CAP106A.pdf",
+     "sha256": "de7aa4dc0ceb650dd2c284fdd143e4c1cba6c2a9a372bb03c7c43d0403a5ef81"
+    }
+   ]
+  },
+  {
+   "slug": "university-of-the-west-indies-guarantee-of-loans",
+   "short": "University of the West Indies (Guarantee of Loans)",
+   "title": "University of the West Indies (Guarantee of Loans) Act, Cap. 106B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/UniversityoftheWestIndies(GuaranteeofLoans)CAP106B.pdf",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 6,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/UniversityoftheWestIndies(GuaranteeofLoans)CAP106B.pdf",
+     "sha256": "d43464134911e8adf28195caff354a0c9e1824dceb05daaf084fce8e3f7a9b5f"
+    }
+   ]
+  },
+  {
+   "slug": "urban-development-commission",
+   "short": "Urban Development Commission",
+   "title": "Urban Development Commission Act, Cap. 241",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/UrbanDevelopmentCommissionCAP241.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 38,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/UrbanDevelopmentCommissionCAP241.pdf",
+     "sha256": "dfe9fde2b4def93f6896ebd3c2d6c8f2cffe7f03724b0b9aa133bf9cc1937bfa"
+    }
+   ]
+  },
+  {
+   "slug": "utilities-regulation",
+   "short": "Utilities Regulation",
+   "title": "Utilities Regulation Act, Cap. 282",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/UtilitiesRegulationCAP282.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 43,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/UtilitiesRegulationCAP282.pdf",
+     "sha256": "45a7501efb438bc529febc6c2c8d2d08022602121d3976a70e65d2a0f0ee1c2c"
+    }
+   ]
   }
  ]
 }

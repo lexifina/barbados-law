@@ -11,6 +11,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-11-03 | no licence stated; site footer "Copyright Barbados Judicial System. All Rights Reserved." |
 | Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-11-03 | no licence stated; site footer "Copyright Barbados Judicial System. All Rights Reserved." |
 | Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-11-03 | no licence stated; site footer "Copyright Barbados Judicial System. All Rights Reserved." |
+| Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-11-03 | no licence stated; site footer "Copyright Barbados Judicial System. All Rights Reserved." |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -113,20 +114,47 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `referendum` | Referendum Act, Cap. 011A | 1 | 2026-11-03 to 2026-11-03 |
 | `regional-security-system` | Regional Security System Act, Cap. 174B | 1 | 2026-11-03 to 2026-11-03 |
 | `repatriation-of-prisoners` | Repatriation of Prisoners Act, Cap. 168B | 1 | 2026-11-03 to 2026-11-03 |
+| `roman-catholic-bishop-of-bridgetown` | Roman Catholic Bishop of Bridgetown Act, Cap. 375A | 1 | 2026-11-03 to 2026-11-03 |
+| `rural-development-commission` | Rural Development Commission Act, Cap. 238 | 1 | 1996-03-01 to 1996-03-01 |
+| `safety-and-health-at-work` | Safety and Health at Work Act, Cap. 356 | 1 | 2026-11-03 to 2026-11-03 |
+| `scotland-district-authority` | Scotland District Authority Act, Cap. 395B | 1 | 2026-11-03 to 2026-11-03 |
+| `securities` | Securities Act, Cap. 318A | 1 | 2026-11-03 to 2026-11-03 |
+| `security-assistance-caricom-member-states` | Security Assistance (CARICOM Member States) Act, Cap. 174C | 1 | 2007-03-12 to 2007-03-12 |
+| `serial-bonds` | Serial Bonds Act, Cap. 104B | 1 | 1997-12-25 to 1997-12-25 |
+| `shipping-incentives` | Shipping (Incentives) Act, Cap. 090A | 1 | 2026-11-03 to 2026-11-03 |
+| `shipping-corporations` | Shipping Corporations Act, Cap. 296B | 1 | 1996-09-09 to 1996-09-09 |
+| `small-business-development` | Small Business Development Act, Cap. 318C | 1 | 2026-11-03 to 2026-11-03 |
+| `societies-with-restricted-liability` | Societies With Restricted Liability Act, Cap. 318B | 1 | 2026-11-03 to 2026-11-03 |
+| `special-development-areas` | Special Development Areas Act, Cap. 237A | 1 | 2026-11-03 to 2026-11-03 |
+| `st-john-ambulance-associationof-barbados-incorporation` | St.John Ambulance Associationof Barbados (Incorporation) Act, Cap. 380C | 1 | 2003-12-25 to 2003-12-25 |
+| `standards` | Standards Act, Cap. 326A | 1 | 2006-06-01 to 2006-06-01 |
+| `telecommunications` | Telecommunications Act, Cap. 282B | 1 | 2026-11-03 to 2026-11-03 |
+| `tourism-development` | Tourism Development Act, Cap. 341 | 1 | 2002-08-31 to 2002-08-31 |
+| `trade-economic-and-technical-agreement-agreement-between-the-caribbean-community` | Trade, Economic and Technical Agreement (Agreement between the Caribbean Community and the Government of the Republic of Colombia) Act, Cap. 335 | 1 | 2006-04-13 to 2006-04-13 |
+| `trade-marks` | Trade Marks Act, Cap. 319 | 1 | 2026-11-03 to 2026-11-03 |
+| `trade-and-economic-co-operation-agreement-between-the-caribbean-community-carico` | Trade and Economic Co-operation (Agreement between the Caribbean Community (CARICOM) and the Government of the Republic of Cuba) Act, Cap. 337 | 1 | 2006-04-13 to 2006-04-13 |
+| `trafalgar-square-change-of-name` | Trafalgar Square (Change of Name) Act, Cap. 241A | 1 | 1999-04-26 to 1999-04-26 |
+| `transport-authority` | Transport Authority Act, Cap. 295A | 1 | 2026-11-03 to 2026-11-03 |
+| `travel-services` | Travel Services Act, Cap. 373A | 1 | 2026-11-03 to 2026-11-03 |
+| `treasury-bills-and-tax-certificates` | Treasury Bills and Tax Certificates Act, Cap. 106 | 1 | 2026-11-03 to 2026-11-03 |
+| `university-of-the-west-indies-guarantee-of-bonds` | University of the West Indies (Guarantee of Bonds) Act, Cap. 106A | 1 | 2026-11-03 to 2026-11-03 |
+| `university-of-the-west-indies-guarantee-of-loans` | University of the West Indies (Guarantee of Loans) Act, Cap. 106B | 1 | 2007-08-16 to 2007-08-16 |
+| `urban-development-commission` | Urban Development Commission Act, Cap. 241 | 1 | 2026-11-03 to 2026-11-03 |
+| `utilities-regulation` | Utilities Regulation Act, Cap. 282 | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 95 commits:
+The build made 122 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 95 | first version of an act |
+| 122 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 186 laws in the record.
-- 134 tags.
+- 227 laws in the record.
+- 172 tags.
 
 ## Dates
 
@@ -138,7 +166,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `75f171a9c6a3764acc10baab08536b24a67b6eaa9be7f5a5985c09ad2db8432f` (5232992 bytes).
+- Corpus: sha256 `631ee974277b35cc17fb3757d42a8c134f127ad52aa2704eedcb5a4725fbb973` (7172273 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -161,6 +189,8 @@ No second build of this corpus has been compared yet.
 - Marginal notes (section headings and amendment references) are not text: the heading becomes the section's first line and amendment references are dropped. Cross-headings ("PART II", "Citation") stay as lines where the print puts them.
 - Acts in parts 30-acts-*: each Act is one version, the Law Revision Office consolidation the Barbados Law Courts publish. The edition prints only its L.R.O. year. An Act whose long-title margin note names no amending Act is dated by the commencement date printed under its long title and credited to the Act; every other Act is dated by the day its text was retrieved and credited to the publisher as the oldest version available, naming the Acts in that note.
 - Marginal notes (section headings and amendment references) are not text: the heading becomes the section's first line and amendment references are dropped. Cross-headings ("PART II", "Citation") stay as lines where the print puts them.
+- Acts in parts 30-acts-*: each Act is one version, the Law Revision Office consolidation the Barbados Law Courts publish. The edition prints only its L.R.O. year. An Act whose long-title margin note names no amending Act is dated by the commencement date printed under its long title and credited to the Act; every other Act is dated by the day its text was retrieved and credited to the publisher as the oldest version available, naming the Acts in that note.
+- Marginal notes (section headings and amendment references) are not text: the heading becomes the section's first line and amendment references are dropped. Cross-headings ("PART II", "Citation") stay as lines where the print puts them.
 
 ## What AI did and did not do
 
@@ -172,6 +202,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code wrote the parser; it did not write or alter any legal text. 0 model calls at data-build time.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, which selects, dates and checks the Acts. No model wrote, summarised or transformed legal text: the reader is deterministic code over the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, which selects, dates and checks the Acts. No model wrote, summarised or transformed legal text: the reader is deterministic code over the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, which selects, dates and checks the Acts. No model wrote, summarised or transformed legal text: the reader is deterministic code over the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, which selects, dates and checks the Acts. No model wrote, summarised or transformed legal text: the reader is deterministic code over the PDF text layer.
