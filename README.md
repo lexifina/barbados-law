@@ -32,6 +32,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `civil-aviation-montreal-convention/` | Civil Aviation (Montreal Convention) Act, Cap. 123A | 1 | 2026-11-03, oldest version available |
 | `coastal-zone-management/` | Coastal Zone Management Act, Cap. 394 | 1 | 2000-05-01, commencement (never amended in this edition) |
 | `computer-misuse/` | Computer Misuse Act, Cap. 124B | 1 | 2022-08-11, oldest version available |
+| `conferment-of-the-gold-award-of-achievement/` | conferment of the Gold Award of Achievement Act, Cap. 401 | 1 | 2001-04-30, commencement (never amended in this edition) |
 | `constituency-councils/` | Constituency Councils Act, Cap. 004 | 1 | 2009-04-06, commencement (never amended in this edition) |
 | `consular-and-notarial-services-fees/` | Consular and Notarial Services Fees Act, Cap. 013B | 1 | 2026-11-03, oldest version available |
 | `consumer-guarantees/` | Consumer Guarantees Act, Cap. 326E | 1 | 2003-01-16, commencement (never amended in this edition) |
@@ -51,6 +52,29 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `export-promotion-and-marketing-fund/` | Export Promotion and Marketing Fund Act, Cap. 346A | 1 | 2026-11-03, oldest version available |
 | `fair-competition/` | Fair Competition Act, Cap. 326C | 1 | 2026-11-03, oldest version available |
 | `fair-trading-commission/` | Fair Trading Commission Act, Cap. 326B | 1 | 2026-11-03, oldest version available |
+| `financial-institutions/` | Financial Institutions Act, Cap. 324A | 1 | 2026-11-03, oldest version available |
+| `financial-management-and-audit/` | Financial Management and Audit Act, Cap. 5 | 1 | 2026-11-03, oldest version available |
+| `forensic-procedures-and-dna-identification/` | Forensic Procedures and DNA Identification Act, Cap. 121B | 1 | 2005-03-03, commencement (never amended in this edition) |
+| `free-trade-area-agreement-establishing-the-free-trade-area-between-the-caribbean/` | Free Trade Area (Agreement establishing the Free Trade Area between the Caribbean and the Government of the Republic of Costa Rica) Act, Cap. 332 | 1 | 2006-04-13, commencement (never amended in this edition) |
+| `free-trade-area-agreement-establishing-the-free-trade-area-between-the-caribbean-cap-334/` | Free Trade Area (Agreement establishing the Free Trade Area between the Caribbean Community and the Dominican Republic) Act, Cap. 334 | 1 | 2006-04-13, commencement (never amended in this edition) |
+| `geographical-indications/` | Geographical Indications Act, Cap. 320 | 1 | 2001-02-19, commencement (never amended in this edition) |
+| `guarantee-of-loans-companies/` | Guarantee of Loans (Companies) Act, Cap. 096 | 1 | 2026-11-03, oldest version available |
+| `housing-incentives/` | Housing Incentives Act, Cap. 226A | 1 | 2007-12-20, commencement (never amended in this edition) |
+| `icc-cricket-world-cup-west-indies-2007-guarantee/` | ICC Cricket World Cup West Indies 2007 (Guarantee) Act, Cap. 099 | 1 | 2004-12-23, commencement (never amended in this edition) |
+| `institute-of-chartered-accountants-of-barbados-incorporation/` | Institute of Chartered Accountants of Barbados (Incorporation) Act, Cap. 369A | 1 | 2026-11-03, oldest version available |
+| `insurance/` | Insurance Act, Cap. 310 | 1 | 2026-11-03, oldest version available |
+| `insurance-corporation-of-barbados-transfer-and-vesting-of-assets/` | Insurance Corporation of Barbados (Transfer and Vesting of Assets) Act, Cap. 311 | 1 | 2000-12-06, commencement (never amended in this edition) |
+| `integrated-circuits/` | Integrated Circuits Act, Cap. 320A | 1 | 2026-11-03, oldest version available |
+| `international-commercial-arbitration/` | International Commercial Arbitration Act, Cap. 110B | 1 | 2009-01-19, commencement (never amended in this edition) |
+| `international-development-association-membership-of-barbados/` | International Development Association (Membership of Barbados) Act, Cap. 323E | 1 | 2026-11-03, oldest version available |
+| `international-trade-in-endangered-species-of-wild-fauna-and-flora/` | International Trade in Endangered Species of Wild Fauna and Flora Act, Cap. 262 | 1 | 2026-11-03, oldest version available |
+| `international-trusts/` | International Trusts Act, Cap. 245 | 1 | 2026-11-03, oldest version available |
+| `land-title-deeds-restoration/` | Land (Title Deeds Restoration) Act, Cap. 229C | 1 | 1995-04-01, commencement (never amended in this edition) |
+| `liat-1974-limited-guarantee/` | LIAT (1974) Limited (Guarantee) Act, Cap. 289B | 1 | 2026-11-03, oldest version available |
+| `liat-1974-limited-guarantee-of-interest/` | LIAT (1974) Limited (Guarantee of Interest) Act, Cap. 289A | 1 | 2003-07-14, commencement (never amended in this edition) |
+| `limitation-and-prescription/` | Limitation and Prescription Act, Cap. 232 | 1 | 2026-11-03, oldest version available |
+| `limitationof-actions/` | Limitationof Actions Act, Cap. 231 | 1 | 1997-10-01, commencement (never amended in this edition) |
+| `magistrates-courts/` | Magistrate's Courts Act, Cap. 116A | 1 | 2026-11-03, oldest version available |
 <!-- acts:end -->
 
 Language: English. The text is that of the born-digital PDFs published by the Barbados Law Courts; the older scanned Acts (the Constitution, for one) have only an OCR text layer and are not included.

@@ -588,6 +588,342 @@
      "sha256": "005b990e5cda81dab3db8b2457f1eb57889c4d5ec79d36aaf1707aabe4dc06ef"
     }
    ]
+  },
+  {
+   "slug": "financial-institutions",
+   "short": "Financial Institutions",
+   "title": "Financial Institutions Act, Cap. 324A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/FinancialInstitutionsCAP324A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 120,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/FinancialInstitutionsCAP324A.pdf",
+     "sha256": "d401f7944503ead09cd61792b6710296694986be186b45c9ef2035b0edbcc48d"
+    }
+   ]
+  },
+  {
+   "slug": "financial-management-and-audit",
+   "short": "Financial Management and Audit",
+   "title": "Financial Management and Audit Act, Cap. 5",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/FinancialManagementandAuditCAP5.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 51,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/FinancialManagementandAuditCAP5.pdf",
+     "sha256": "747aa36c8a523b8621dd09662ac65a6fc5b156b2a0ff7307fd22ca8265c50265"
+    }
+   ]
+  },
+  {
+   "slug": "forensic-procedures-and-dna-identification",
+   "short": "Forensic Procedures and DNA Identification",
+   "title": "Forensic Procedures and DNA Identification Act, Cap. 121B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ForensicProceduresandDNAIdentificationCAP121B.pdf",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 96,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ForensicProceduresandDNAIdentificationCAP121B.pdf",
+     "sha256": "888cfe4547fcbe1c66442f77d516213628b4c4404ac3f711da9a1e938c54a62e"
+    }
+   ]
+  },
+  {
+   "slug": "free-trade-area-agreement-establishing-the-free-trade-area-between-the-caribbean",
+   "short": "Free Trade Area (Agreement establishing the Free Trade Area between the Caribbean and the Government of the Republic of Costa Rica)",
+   "title": "Free Trade Area (Agreement establishing the Free Trade Area between the Caribbean and the Government of the Republic of Costa Rica) Act, Cap. 332",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/FreeTradeArea(AgreementEstablishingtheFreeAreaBetweentheCaribbeanCommunityandtheGovernmentoftheRepublicofCoastaRica)CAP332.pdf",
+   "versions": [
+    {
+     "from": "2006-04-13",
+     "units": 6,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/FreeTradeArea(AgreementEstablishingtheFreeAreaBetweentheCaribbeanCommunityandtheGovernmentoftheRepublicofCoastaRica)CAP332.pdf",
+     "sha256": "a09bdf040d4d5dda68750a94889d7c2b56d0c3b22190d9a4a40fc989323ddb15"
+    }
+   ]
+  },
+  {
+   "slug": "free-trade-area-agreement-establishing-the-free-trade-area-between-the-caribbean-cap-334",
+   "short": "Free Trade Area (Agreement establishing the Free Trade Area between the Caribbean Community and the Dominican Republic)",
+   "title": "Free Trade Area (Agreement establishing the Free Trade Area between the Caribbean Community and the Dominican Republic) Act, Cap. 334",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/FreeTradeArea(AgreementEstablishingtheFreeTradeAreabetweentheCaribbeanCommunityandtheDominicanRepublic)CAP334.pdf",
+   "versions": [
+    {
+     "from": "2006-04-13",
+     "units": 6,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/FreeTradeArea(AgreementEstablishingtheFreeTradeAreabetweentheCaribbeanCommunityandtheDominicanRepublic)CAP334.pdf",
+     "sha256": "beb0113d13b74a393f27c0bca1b9a7c9974a569db19290929940434335923e69"
+    }
+   ]
+  },
+  {
+   "slug": "geographical-indications",
+   "short": "Geographical Indications",
+   "title": "Geographical Indications Act, Cap. 320",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/GeographicalIndicationsCAP320.pdf",
+   "versions": [
+    {
+     "from": "2001-02-19",
+     "units": 24,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/GeographicalIndicationsCAP320.pdf",
+     "sha256": "de8c634164423824ce7837df595eb072cca99dfe1bbbf3d7f255be34e09a31c3"
+    }
+   ]
+  },
+  {
+   "slug": "conferment-of-the-gold-award-of-achievement",
+   "short": "conferment of the Gold Award of Achievement",
+   "title": "conferment of the Gold Award of Achievement Act, Cap. 401",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/GoldAwardAchievementCAP401.pdf",
+   "versions": [
+    {
+     "from": "2001-04-30",
+     "units": 8,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/GoldAwardAchievementCAP401.pdf",
+     "sha256": "0554a28c4c8eefb3aa470522ec545e6140ab7ff0632f11895909dd1e6c0f082c"
+    }
+   ]
+  },
+  {
+   "slug": "guarantee-of-loans-companies",
+   "short": "Guarantee of Loans (Companies)",
+   "title": "Guarantee of Loans (Companies) Act, Cap. 096",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/GuaranteeofLoans(Companies)CAP096.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 10,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/GuaranteeofLoans(Companies)CAP096.pdf",
+     "sha256": "1792a0084428a7813d0de6894405e1965a9796d1b8bffda5871dcd23c67a7c9a"
+    }
+   ]
+  },
+  {
+   "slug": "housing-incentives",
+   "short": "Housing Incentives",
+   "title": "Housing Incentives Act, Cap. 226A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/HousingIncentivesCAP226A.pdf",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 14,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/HousingIncentivesCAP226A.pdf",
+     "sha256": "fec974b0bc3988f42dad98d97f81233be3f6825b080402473a775f96ccddfb69"
+    }
+   ]
+  },
+  {
+   "slug": "icc-cricket-world-cup-west-indies-2007-guarantee",
+   "short": "ICC Cricket World Cup West Indies 2007 (Guarantee)",
+   "title": "ICC Cricket World Cup West Indies 2007 (Guarantee) Act, Cap. 099",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ICCCricketWorldCupWestIndies2007(Guarantee)CAP099.pdf",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 7,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ICCCricketWorldCupWestIndies2007(Guarantee)CAP099.pdf",
+     "sha256": "c9a3092f6b6ebbbf0023e00813436e029bc53893092c0e6d862f9a2bb6bf4152"
+    }
+   ]
+  },
+  {
+   "slug": "institute-of-chartered-accountants-of-barbados-incorporation",
+   "short": "Institute of Chartered Accountants of Barbados (Incorporation)",
+   "title": "Institute of Chartered Accountants of Barbados (Incorporation) Act, Cap. 369A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InstituteofCharteredAccountantsofBarbadosCAP369A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 9,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InstituteofCharteredAccountantsofBarbadosCAP369A.pdf",
+     "sha256": "24f09e920d96d6b3508bd26fde113a611eec546617b289db4b860b7cce45d195"
+    }
+   ]
+  },
+  {
+   "slug": "insurance",
+   "short": "Insurance",
+   "title": "Insurance Act, Cap. 310",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InsuranceCAP310.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 207,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InsuranceCAP310.pdf",
+     "sha256": "dd6f5f7eeed74ba3b7b1656751c67a69dd956619cb5a520c77c4d78f7b5d8f71"
+    }
+   ]
+  },
+  {
+   "slug": "insurance-corporation-of-barbados-transfer-and-vesting-of-assets",
+   "short": "Insurance Corporation of Barbados (Transfer and Vesting of Assets)",
+   "title": "Insurance Corporation of Barbados (Transfer and Vesting of Assets) Act, Cap. 311",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InsuranceCorporationofBarbados(TransferandVestingofAssets)CAP311.pdf",
+   "versions": [
+    {
+     "from": "2000-12-06",
+     "units": 9,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InsuranceCorporationofBarbados(TransferandVestingofAssets)CAP311.pdf",
+     "sha256": "e9284efa347bae534dcc0bbdb26e8aea5b87caa63b18475117b3f08fcf7d3de4"
+    }
+   ]
+  },
+  {
+   "slug": "integrated-circuits",
+   "short": "Integrated Circuits",
+   "title": "Integrated Circuits Act, Cap. 320A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/IntegratedCircuitsCAP320A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 22,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/IntegratedCircuitsCAP320A.pdf",
+     "sha256": "c1e9a5a2133d22196fc17c6bbbbde3c91f3ba397becea9d2ed1c74d5a20743a4"
+    }
+   ]
+  },
+  {
+   "slug": "international-commercial-arbitration",
+   "short": "International Commercial Arbitration",
+   "title": "International Commercial Arbitration Act, Cap. 110B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InternationalCommercialArbitrationCAP110B.pdf",
+   "versions": [
+    {
+     "from": "2009-01-19",
+     "units": 54,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InternationalCommercialArbitrationCAP110B.pdf",
+     "sha256": "83c54345fdc3f696ff913615626a820eed601414109a8b6aa48780d8fe9fa160"
+    }
+   ]
+  },
+  {
+   "slug": "international-development-association-membership-of-barbados",
+   "short": "International Development Association (Membership of Barbados)",
+   "title": "International Development Association (Membership of Barbados) Act, Cap. 323E",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InternationalDevelopmentAssociation(MembershipofBarbados)CAP323E.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InternationalDevelopmentAssociation(MembershipofBarbados)CAP323E.pdf",
+     "sha256": "f6977ffcb917e82b694802b8d52a379bf0bafd0af14370deed1c4b6af8e0b412"
+    }
+   ]
+  },
+  {
+   "slug": "international-trade-in-endangered-species-of-wild-fauna-and-flora",
+   "short": "International Trade in Endangered Species of Wild Fauna and Flora",
+   "title": "International Trade in Endangered Species of Wild Fauna and Flora Act, Cap. 262",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InternationalTradeinEndangeredSpeciesofWildFaunaandFloraCAP262.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 42,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InternationalTradeinEndangeredSpeciesofWildFaunaandFloraCAP262.pdf",
+     "sha256": "41f1eea54e5b345bfa45740bb36d708de8b9f3884047c88c3ed677de7f3405a1"
+    }
+   ]
+  },
+  {
+   "slug": "international-trusts",
+   "short": "International Trusts",
+   "title": "International Trusts Act, Cap. 245",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InternationalTrustsCAP245.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 36,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/InternationalTrustsCAP245.pdf",
+     "sha256": "083eb39737d19d843cf0e6fcd6862e79a9d83ae3a10e919b609e8a0397e4c3e2"
+    }
+   ]
+  },
+  {
+   "slug": "liat-1974-limited-guarantee",
+   "short": "LIAT (1974) Limited (Guarantee)",
+   "title": "LIAT (1974) Limited (Guarantee) Act, Cap. 289B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/LIAT(1974)Limited(Guarantee)CAP289B.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 5,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/LIAT(1974)Limited(Guarantee)CAP289B.pdf",
+     "sha256": "0646aaf9176013acf6a9046740fd59095d00101ab4bf2fedd75639ea320fd690"
+    }
+   ]
+  },
+  {
+   "slug": "liat-1974-limited-guarantee-of-interest",
+   "short": "LIAT (1974) Limited (Guarantee of Interest)",
+   "title": "LIAT (1974) Limited (Guarantee of Interest) Act, Cap. 289A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/LIAT(1974)Limited(GuaranteeofInterest)CAP289A.pdf",
+   "versions": [
+    {
+     "from": "2003-07-14",
+     "units": 8,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/LIAT(1974)Limited(GuaranteeofInterest)CAP289A.pdf",
+     "sha256": "c70bdb1b481c103cdb5e27ee839c7845e2cc96af69ab44757545a599514e16ff"
+    }
+   ]
+  },
+  {
+   "slug": "land-title-deeds-restoration",
+   "short": "Land (Title Deeds Restoration)",
+   "title": "Land (Title Deeds Restoration) Act, Cap. 229C",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Land(TitleDeedsRestoration)CAP229C.pdf",
+   "versions": [
+    {
+     "from": "1995-04-01",
+     "units": 7,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Land(TitleDeedsRestoration)CAP229C.pdf",
+     "sha256": "55c79f47d665bb0d48735d30ff6687ef4a032d504d2530aa16c54579986fab25"
+    }
+   ]
+  },
+  {
+   "slug": "limitation-and-prescription",
+   "short": "Limitation and Prescription",
+   "title": "Limitation and Prescription Act, Cap. 232",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/LimitationandPrescriptionCAP232.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/LimitationandPrescriptionCAP232.pdf",
+     "sha256": "f60cba7a8f03bfc523a65f889813d0f9afc728e411778c5c5169fc7471deaa14"
+    }
+   ]
+  },
+  {
+   "slug": "limitationof-actions",
+   "short": "Limitationof Actions",
+   "title": "Limitationof Actions Act, Cap. 231",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/LimitationofActionsCAP231.pdf",
+   "versions": [
+    {
+     "from": "1997-10-01",
+     "units": 63,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/LimitationofActionsCAP231.pdf",
+     "sha256": "8da863362daebbec67509db397c30767ef0cd9983384d0dd20b27f4928e989a6"
+    }
+   ]
+  },
+  {
+   "slug": "magistrates-courts",
+   "short": "Magistrate's Courts",
+   "title": "Magistrate's Courts Act, Cap. 116A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Magistrate'sCourtsCAP116A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 279,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Magistrate'sCourtsCAP116A.pdf",
+     "sha256": "7b2b5f9365e097227fa4705fbbea87ed1a7c00e03137258b1309256764a02c04"
+    }
+   ]
   }
  ]
 }

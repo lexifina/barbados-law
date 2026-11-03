@@ -9,6 +9,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-10-29 | no licence stated |
 | Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-11-03 | no licence stated; site footer "Copyright Barbados Judicial System. All Rights Reserved." |
 | Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-11-03 | no licence stated; site footer "Copyright Barbados Judicial System. All Rights Reserved." |
+| Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-11-03 | no licence stated; site footer "Copyright Barbados Judicial System. All Rights Reserved." |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -58,20 +59,44 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `export-promotion-and-marketing-fund` | Export Promotion and Marketing Fund Act, Cap. 346A | 1 | 2026-11-03 to 2026-11-03 |
 | `fair-competition` | Fair Competition Act, Cap. 326C | 1 | 2026-11-03 to 2026-11-03 |
 | `fair-trading-commission` | Fair Trading Commission Act, Cap. 326B | 1 | 2026-11-03 to 2026-11-03 |
+| `financial-institutions` | Financial Institutions Act, Cap. 324A | 1 | 2026-11-03 to 2026-11-03 |
+| `financial-management-and-audit` | Financial Management and Audit Act, Cap. 5 | 1 | 2026-11-03 to 2026-11-03 |
+| `forensic-procedures-and-dna-identification` | Forensic Procedures and DNA Identification Act, Cap. 121B | 1 | 2005-03-03 to 2005-03-03 |
+| `free-trade-area-agreement-establishing-the-free-trade-area-between-the-caribbean` | Free Trade Area (Agreement establishing the Free Trade Area between the Caribbean and the Government of the Republic of Costa Rica) Act, Cap. 332 | 1 | 2006-04-13 to 2006-04-13 |
+| `free-trade-area-agreement-establishing-the-free-trade-area-between-the-caribbean-cap-334` | Free Trade Area (Agreement establishing the Free Trade Area between the Caribbean Community and the Dominican Republic) Act, Cap. 334 | 1 | 2006-04-13 to 2006-04-13 |
+| `geographical-indications` | Geographical Indications Act, Cap. 320 | 1 | 2001-02-19 to 2001-02-19 |
+| `conferment-of-the-gold-award-of-achievement` | conferment of the Gold Award of Achievement Act, Cap. 401 | 1 | 2001-04-30 to 2001-04-30 |
+| `guarantee-of-loans-companies` | Guarantee of Loans (Companies) Act, Cap. 096 | 1 | 2026-11-03 to 2026-11-03 |
+| `housing-incentives` | Housing Incentives Act, Cap. 226A | 1 | 2007-12-20 to 2007-12-20 |
+| `icc-cricket-world-cup-west-indies-2007-guarantee` | ICC Cricket World Cup West Indies 2007 (Guarantee) Act, Cap. 099 | 1 | 2004-12-23 to 2004-12-23 |
+| `institute-of-chartered-accountants-of-barbados-incorporation` | Institute of Chartered Accountants of Barbados (Incorporation) Act, Cap. 369A | 1 | 2026-11-03 to 2026-11-03 |
+| `insurance` | Insurance Act, Cap. 310 | 1 | 2026-11-03 to 2026-11-03 |
+| `insurance-corporation-of-barbados-transfer-and-vesting-of-assets` | Insurance Corporation of Barbados (Transfer and Vesting of Assets) Act, Cap. 311 | 1 | 2000-12-06 to 2000-12-06 |
+| `integrated-circuits` | Integrated Circuits Act, Cap. 320A | 1 | 2026-11-03 to 2026-11-03 |
+| `international-commercial-arbitration` | International Commercial Arbitration Act, Cap. 110B | 1 | 2009-01-19 to 2009-01-19 |
+| `international-development-association-membership-of-barbados` | International Development Association (Membership of Barbados) Act, Cap. 323E | 1 | 2026-11-03 to 2026-11-03 |
+| `international-trade-in-endangered-species-of-wild-fauna-and-flora` | International Trade in Endangered Species of Wild Fauna and Flora Act, Cap. 262 | 1 | 2026-11-03 to 2026-11-03 |
+| `international-trusts` | International Trusts Act, Cap. 245 | 1 | 2026-11-03 to 2026-11-03 |
+| `liat-1974-limited-guarantee` | LIAT (1974) Limited (Guarantee) Act, Cap. 289B | 1 | 2026-11-03 to 2026-11-03 |
+| `liat-1974-limited-guarantee-of-interest` | LIAT (1974) Limited (Guarantee of Interest) Act, Cap. 289A | 1 | 2003-07-14 to 2003-07-14 |
+| `land-title-deeds-restoration` | Land (Title Deeds Restoration) Act, Cap. 229C | 1 | 1995-04-01 to 1995-04-01 |
+| `limitation-and-prescription` | Limitation and Prescription Act, Cap. 232 | 1 | 2026-11-03 to 2026-11-03 |
+| `limitationof-actions` | Limitationof Actions Act, Cap. 231 | 1 | 1997-10-01 to 1997-10-01 |
+| `magistrates-courts` | Magistrate's Courts Act, Cap. 116A | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 42 commits:
+The build made 66 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 42 | first version of an act |
+| 66 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 72 laws in the record.
-- 59 tags.
+- 120 laws in the record.
+- 95 tags.
 
 ## Dates
 
@@ -83,7 +108,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1237429de6930ac19d7ce39b6d70c952ad327fafe460bd59d0db798e58a9e512` (2157545 bytes).
+- Corpus: sha256 `ae878f23cac2fe476aa6134cfe797b028a3a734a9f45501fafc7ea2b29045ff8` (4154428 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -102,6 +127,8 @@ No second build of this corpus has been compared yet.
 - Marginal notes (section headings and amendment references) are not text: the heading becomes the section's first line and amendment references are dropped. Cross-headings ("PART II", "Citation") stay as lines where the print puts them.
 - Acts in parts 30-acts-*: each Act is one version, the Law Revision Office consolidation the Barbados Law Courts publish. The edition prints only its L.R.O. year. An Act whose long-title margin note names no amending Act is dated by the commencement date printed under its long title and credited to the Act; every other Act is dated by the day its text was retrieved and credited to the publisher as the oldest version available, naming the Acts in that note.
 - Marginal notes (section headings and amendment references) are not text: the heading becomes the section's first line and amendment references are dropped. Cross-headings ("PART II", "Citation") stay as lines where the print puts them.
+- Acts in parts 30-acts-*: each Act is one version, the Law Revision Office consolidation the Barbados Law Courts publish. The edition prints only its L.R.O. year. An Act whose long-title margin note names no amending Act is dated by the commencement date printed under its long title and credited to the Act; every other Act is dated by the day its text was retrieved and credited to the publisher as the oldest version available, naming the Acts in that note.
+- Marginal notes (section headings and amendment references) are not text: the heading becomes the section's first line and amendment references are dropped. Cross-headings ("PART II", "Citation") stay as lines where the print puts them.
 
 ## What AI did and did not do
 
@@ -113,5 +140,6 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code wrote the parser; it did not write or alter any legal text. 0 model calls at data-build time.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, which selects, dates and checks the Acts. No model wrote, summarised or transformed legal text: the reader is deterministic code over the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, which selects, dates and checks the Acts. No model wrote, summarised or transformed legal text: the reader is deterministic code over the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, which selects, dates and checks the Acts. No model wrote, summarised or transformed legal text: the reader is deterministic code over the PDF text layer.
