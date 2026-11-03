@@ -28,7 +28,29 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `caves/` | Caves Act, Cap. 389 | 1 | 2000-09-05, commencement (never amended in this edition) |
 | `cemeteries/` | Cemeteries Act, Cap. 039C | 1 | 1999-06-07, commencement (never amended in this edition) |
 | `centennial-honour/` | Centennial Honour Act, Cap. 400 | 1 | 2026-11-03, oldest version available |
+| `civil-aviation/` | Civil Aviation Act, Cap. 288B | 1 | 2026-11-03, oldest version available |
+| `civil-aviation-montreal-convention/` | Civil Aviation (Montreal Convention) Act, Cap. 123A | 1 | 2026-11-03, oldest version available |
+| `coastal-zone-management/` | Coastal Zone Management Act, Cap. 394 | 1 | 2000-05-01, commencement (never amended in this edition) |
 | `computer-misuse/` | Computer Misuse Act, Cap. 124B | 1 | 2022-08-11, oldest version available |
+| `constituency-councils/` | Constituency Councils Act, Cap. 004 | 1 | 2009-04-06, commencement (never amended in this edition) |
+| `consular-and-notarial-services-fees/` | Consular and Notarial Services Fees Act, Cap. 013B | 1 | 2026-11-03, oldest version available |
+| `consumer-guarantees/` | Consumer Guarantees Act, Cap. 326E | 1 | 2003-01-16, commencement (never amended in this edition) |
+| `consumer-protection/` | Consumer Protection Act, Cap. 326D | 1 | 2003-01-16, commencement (never amended in this edition) |
+| `coroners/` | Coroners Act, Cap. 113 | 1 | 2026-11-03, oldest version available |
+| `cricket-legendsof-barbados-inc/` | Cricket Legendsof Barbados Inc. Act, Cap. 378 | 1 | 2008-08-25, commencement (never amended in this edition) |
+| `criminal-appeal/` | Criminal Appeal Act, Cap. 113A | 1 | 2026-11-03, oldest version available |
+| `criminal-law-arrestable-offences/` | Criminal Law (Arrestable Offences) Act, Cap. 125A | 1 | 1994-09-01, commencement (never amended in this edition) |
+| `criminal-records-rehabilitation-of-offenders/` | Criminal Records (Rehabilitation of Offenders) Act, Cap. 127A | 1 | 2026-11-03, oldest version available |
+| `deposit-insurance/` | Deposit Insurance Act, Cap. 323 | 1 | 2007-06-08, commencement (never amended in this edition) |
+| `duties-taxes-and-other-payments-exemption/` | Duties, Taxes and other Payments (Exemption) Act, Cap. 067B | 1 | 2026-11-03, oldest version available |
+| `electronic-transactions/` | Electronic Transactions Act, Cap. 308B | 1 | 2001-03-08, commencement (never amended in this edition) |
+| `emergency-management/` | Emergency Management Act, Cap. 160A | 1 | 2007-04-01, commencement (never amended in this edition) |
+| `emergency-powers/` | Emergency Powers Act, Cap. 161 | 1 | 2026-11-03, oldest version available |
+| `environmental-levy/` | Environmental Levy Act, Cap. 070 | 1 | 1996-07-01, commencement (never amended in this edition) |
+| `estate-duty-waiver/` | Estate Duty (Waiver) Act, Cap. 065 | 1 | 2026-11-03, oldest version available |
+| `export-promotion-and-marketing-fund/` | Export Promotion and Marketing Fund Act, Cap. 346A | 1 | 2026-11-03, oldest version available |
+| `fair-competition/` | Fair Competition Act, Cap. 326C | 1 | 2026-11-03, oldest version available |
+| `fair-trading-commission/` | Fair Trading Commission Act, Cap. 326B | 1 | 2026-11-03, oldest version available |
 <!-- acts:end -->
 
 Language: English. The text is that of the born-digital PDFs published by the Barbados Law Courts; the older scanned Acts (the Constitution, for one) have only an OCR text layer and are not included.

@@ -280,6 +280,314 @@
      "sha256": "c1e1af4ea457e019b49e33920df698107e2165a4933500e40e5bfb2acfdf0ebd"
     }
    ]
+  },
+  {
+   "slug": "civil-aviation-montreal-convention",
+   "short": "Civil Aviation (Montreal Convention)",
+   "title": "Civil Aviation (Montreal Convention) Act, Cap. 123A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CivilAviation(MontrealConvention)CAP123A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CivilAviation(MontrealConvention)CAP123A.pdf",
+     "sha256": "e3976521538424acc71bdb174addfe3695a0f166e71a5b6786c4a0621721cdf5"
+    }
+   ]
+  },
+  {
+   "slug": "civil-aviation",
+   "short": "Civil Aviation",
+   "title": "Civil Aviation Act, Cap. 288B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CivilAviationCAP288B.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 107,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CivilAviationCAP288B.pdf",
+     "sha256": "4d3761f11ce8ffd6ce4638a759a1eea52038c73d3f266b993c8a40301456ff9c"
+    }
+   ]
+  },
+  {
+   "slug": "coastal-zone-management",
+   "short": "Coastal Zone Management",
+   "title": "Coastal Zone Management Act, Cap. 394",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CoastalZoneManagementCAP394.pdf",
+   "versions": [
+    {
+     "from": "2000-05-01",
+     "units": 47,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CoastalZoneManagementCAP394.pdf",
+     "sha256": "927dc01d0b0d5d813b8b4d9fd0587e9e0a64d1bd12021fa8661d5df2e53bd556"
+    }
+   ]
+  },
+  {
+   "slug": "constituency-councils",
+   "short": "Constituency Councils",
+   "title": "Constituency Councils Act, Cap. 004",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ConstituencyCouncilsCAP004.pdf",
+   "versions": [
+    {
+     "from": "2009-04-06",
+     "units": 16,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ConstituencyCouncilsCAP004.pdf",
+     "sha256": "be6bdbd47ac3241e523329e1ee3372cb54daee816f07305e55d6b6b4f73bc212"
+    }
+   ]
+  },
+  {
+   "slug": "consular-and-notarial-services-fees",
+   "short": "Consular and Notarial Services Fees",
+   "title": "Consular and Notarial Services Fees Act, Cap. 013B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ConsularandNotarialServicesFeesCAP013B.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 13,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ConsularandNotarialServicesFeesCAP013B.pdf",
+     "sha256": "ec812b77641047fa0197c9834ba42fdec02ac0db3391ad5481ecb6ee3c2fe975"
+    }
+   ]
+  },
+  {
+   "slug": "consumer-guarantees",
+   "short": "Consumer Guarantees",
+   "title": "Consumer Guarantees Act, Cap. 326E",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ConsumerGuaranteesCAP326E.pdf",
+   "versions": [
+    {
+     "from": "2003-01-16",
+     "units": 62,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ConsumerGuaranteesCAP326E.pdf",
+     "sha256": "973963864dfdd46928779b857dc652312e716e53807ed63a4f8b61b828c6ef5a"
+    }
+   ]
+  },
+  {
+   "slug": "consumer-protection",
+   "short": "Consumer Protection",
+   "title": "Consumer Protection Act, Cap. 326D",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ConsumerProtectionCAP326D.pdf",
+   "versions": [
+    {
+     "from": "2003-01-16",
+     "units": 65,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ConsumerProtectionCAP326D.pdf",
+     "sha256": "31b5d8540f2633902ce6c289cb3ab132f24bf49cd40dd4913dc9bbd6ff2d77ce"
+    }
+   ]
+  },
+  {
+   "slug": "coroners",
+   "short": "Coroners",
+   "title": "Coroners Act, Cap. 113",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CoronersCAP113.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 35,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CoronersCAP113.pdf",
+     "sha256": "814318599d2a55d21184b0e6a0e7eff153160ec4b5e34be37aea2b644c50bf30"
+    }
+   ]
+  },
+  {
+   "slug": "cricket-legendsof-barbados-inc",
+   "short": "Cricket Legendsof Barbados Inc.",
+   "title": "Cricket Legendsof Barbados Inc. Act, Cap. 378",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CricketLegendsofBarbadosInc.CAP378.pdf",
+   "versions": [
+    {
+     "from": "2008-08-25",
+     "units": 9,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CricketLegendsofBarbadosInc.CAP378.pdf",
+     "sha256": "5d7268246935b14010f2ef21dd70d06cbc73723457c966ef61a0cad2b3a22c2c"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-appeal",
+   "short": "Criminal Appeal",
+   "title": "Criminal Appeal Act, Cap. 113A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CriminalAppealCAP113A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 45,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CriminalAppealCAP113A.pdf",
+     "sha256": "124d07183c25c2ab7f4c6b9aff87e8fdcca2f8ed8189b0c2089fd523c48e848c"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-law-arrestable-offences",
+   "short": "Criminal Law (Arrestable Offences)",
+   "title": "Criminal Law (Arrestable Offences) Act, Cap. 125A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CriminalLaw(ArrestableOffences)CAP125A.pdf",
+   "versions": [
+    {
+     "from": "1994-09-01",
+     "units": 12,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CriminalLaw(ArrestableOffences)CAP125A.pdf",
+     "sha256": "516d1ad54b74af2f3aefc1a6d158ef15dda3fba96df3bf003da748829d94dc76"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-records-rehabilitation-of-offenders",
+   "short": "Criminal Records (Rehabilitation of Offenders)",
+   "title": "Criminal Records (Rehabilitation of Offenders) Act, Cap. 127A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CriminalRecords(RehabilitationofOffenders)CAP127A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 29,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CriminalRecords(RehabilitationofOffenders)CAP127A.pdf",
+     "sha256": "c4527afcb761f638a5b09ca440594475acf7f629e06a2994f7314c20283c8f91"
+    }
+   ]
+  },
+  {
+   "slug": "deposit-insurance",
+   "short": "Deposit Insurance",
+   "title": "Deposit Insurance Act, Cap. 323",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/DepositInsuranceCAP323.pdf",
+   "versions": [
+    {
+     "from": "2007-06-08",
+     "units": 53,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/DepositInsuranceCAP323.pdf",
+     "sha256": "879c5ca50beab674df52471af5b36c7909b4d153627922f13c28ccf2fce6ee01"
+    }
+   ]
+  },
+  {
+   "slug": "duties-taxes-and-other-payments-exemption",
+   "short": "Duties, Taxes and other Payments (Exemption)",
+   "title": "Duties, Taxes and other Payments (Exemption) Act, Cap. 067B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Duties,TaxesandOthersPayments(Exemption)CAP067B.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 5,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Duties,TaxesandOthersPayments(Exemption)CAP067B.pdf",
+     "sha256": "d75cdb8dc25ffcfa64e1b3deee838c80bbc7f0d1310eaa22a67311b38f608306"
+    }
+   ]
+  },
+  {
+   "slug": "electronic-transactions",
+   "short": "Electronic Transactions",
+   "title": "Electronic Transactions Act, Cap. 308B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ElectronicTransactionsCAP308B.pdf",
+   "versions": [
+    {
+     "from": "2001-03-08",
+     "units": 29,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ElectronicTransactionsCAP308B.pdf",
+     "sha256": "7f80668ce1193867f9129e94364576a87c305ace42cde1acb5623f83962a2245"
+    }
+   ]
+  },
+  {
+   "slug": "emergency-management",
+   "short": "Emergency Management",
+   "title": "Emergency Management Act, Cap. 160A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/EmergencyManagementCAP160A.pdf",
+   "versions": [
+    {
+     "from": "2007-04-01",
+     "units": 41,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/EmergencyManagementCAP160A.pdf",
+     "sha256": "7c2071f33540020e0cfa91b990d79923a8fedc5ea74ea41a5e975d5326ba7cb0"
+    }
+   ]
+  },
+  {
+   "slug": "emergency-powers",
+   "short": "Emergency Powers",
+   "title": "Emergency Powers Act, Cap. 161",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/EmergencyPowersCAP161.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 6,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/EmergencyPowersCAP161.pdf",
+     "sha256": "62d7c88569ad71dee8758957ef8a8a57e696c192dea78842d6f12889042af455"
+    }
+   ]
+  },
+  {
+   "slug": "environmental-levy",
+   "short": "Environmental Levy",
+   "title": "Environmental Levy Act, Cap. 070",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/EnviromentalLevyCAP070.pdf",
+   "versions": [
+    {
+     "from": "1996-07-01",
+     "units": 10,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/EnviromentalLevyCAP070.pdf",
+     "sha256": "59b6338d3b10ed00765b4cec4b4d457a6d82604aebc034ea9cbb421c61933ead"
+    }
+   ]
+  },
+  {
+   "slug": "estate-duty-waiver",
+   "short": "Estate Duty (Waiver)",
+   "title": "Estate Duty (Waiver) Act, Cap. 065",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Estate(DutyWaiver)CAP065.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Estate(DutyWaiver)CAP065.pdf",
+     "sha256": "a4e2eb0e870d9792d8400f67859c4299544abf06a5431b398bc3e2c198e428f3"
+    }
+   ]
+  },
+  {
+   "slug": "export-promotion-and-marketing-fund",
+   "short": "Export Promotion and Marketing Fund",
+   "title": "Export Promotion and Marketing Fund Act, Cap. 346A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ExportPromotionandMarketingFundCAP346A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 15,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ExportPromotionandMarketingFundCAP346A.pdf",
+     "sha256": "2e363843d56d2a667b393a6bd253546dafddb91f8f282e4a3f1fabed7b8be4cf"
+    }
+   ]
+  },
+  {
+   "slug": "fair-competition",
+   "short": "Fair Competition",
+   "title": "Fair Competition Act, Cap. 326C",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/FairCompetitionCAP326C.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 53,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/FairCompetitionCAP326C.pdf",
+     "sha256": "f1bc44284d4b51e57d1788d1f3f70c3e0f31a1df9441ffd067a6baf18f998c57"
+    }
+   ]
+  },
+  {
+   "slug": "fair-trading-commission",
+   "short": "Fair Trading Commission",
+   "title": "Fair Trading Commission Act, Cap. 326B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/FairTradingCommissionCAP326B.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 53,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/FairTradingCommissionCAP326B.pdf",
+     "sha256": "005b990e5cda81dab3db8b2457f1eb57889c4d5ec79d36aaf1707aabe4dc06ef"
+    }
+   ]
   }
  ]
 }
