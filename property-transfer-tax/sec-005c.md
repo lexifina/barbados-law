@@ -1,0 +1,9 @@
+# 5C. No tax payable on leases less than 25 years.
+(1) Notwithstanding sections 4 and 5B and subject to subsection (2), no tax shall be payable in respect of a transfer of property by way of lease for a term that is less than 25 years.
+(2) Where property is transferred by way of a lease that is renewed after the commencement of this Act for a term which, when added to any former term, is of 25 years or more, tax is payable under section 5 in respect of the renewed term.
+(3) Where a lease has not been renewed on the expiry of its term, but a new lease is granted after the commencement of this Act in respect of the same property and between the same or connected persons for a term which, when added to the former term, is of 25 years or more, tax is payable under section 5 in respect of the term of the new lease.
+(4) Subsections (2) and (3) apply notwithstanding that a period of up to 2 years has elapsed between the expiration of the term of a lease and the time when
+(a) the lease referred to in subsection (2) is renewed; or
+(b) the new lease referred to in subsection (3) is granted.
+(5) A transfer of property by way of a lease shall not be treated by the Registrar as exempt from the tax payable under subsection (1) unless a certificate of the transferor that the lease is not one in respect of which subsection (2) or (3) applies is contained in the lease or in a supplementary declaration relating to the lease.
+(6) Notwithstanding any other law to the contrary, all leases that are required by section 149 of the Property Act to be in writing and have been entered into after the commencement of this Act, shall, unless required to be registered under the Land Registration Act, be recorded with the Registrar within 3 months of the execution thereof, and shall be of no effect in law unless recorded in accordance with this section.

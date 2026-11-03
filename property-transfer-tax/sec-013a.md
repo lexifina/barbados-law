@@ -1,0 +1,3 @@
+# 13A. Unpaid input tax to be a charge on land for the purposes of this section.
+(1) For the purposes of this Act, where input tax previously allowed under section 46(2) of the Value Added Tax Act becomes due under paragraph (b) of section 48(3) of that Act, the input tax shall, until paid, be a first charge on the land on which the building in respect of which the input tax is due and payable is erected and which is the subject of the transfer.
+(2) The stamp of the Registrar on a document or instrument of transfer denoting the issue by the Comptroller of Customs of a certificate under sub-paragraph (iii)(B) of section 13(1) shall operate to release the land from the charge under subsection (1).

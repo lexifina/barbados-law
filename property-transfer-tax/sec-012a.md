@@ -1,0 +1,5 @@
+# 12A. Declaration of commission paid.
+(1) Where on the transfer of property by way of sale, a registered real estate agent, auctioneer or any other person acting for the transferor or transferee in the sale has been paid a commission by the transferor or transferee, the person paying the commission shall notify the Commissioner of Inland Revenue in the approved form of the amount of commission so paid in respect of that transfer.
+(2) Where no commission has been so paid, the transferor and transferee shall by way of a declaration in the approved form notify the Commissioner of Inland Revenue to that effect.
+(3) Notification by the transferor and the transferee to the Commissioner of Inland Revenue under this section shall be given not later than 14 days after the execution of the instrument relating to the transfer of the property.
+(4) On the receipt of the notification, the Commissioner of Inland Revenue shall issue a certificate for presentation to the Registrar stating that the requirements of this section have been complied with.
