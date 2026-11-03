@@ -1,0 +1,6 @@
+# 87E. Definitions.
+For the purposes of sections 87A, 87B, 87C and 87D,
+"access device" means a device wholly or partly designed to make intelligible an encrypted, encoded, scrambled or other non-standard signal carried by a multi-channel video or information service system provider;
+"encrypted", "encoded", "scrambled" or "non-standard signal" means any type of signal or transmission that is not intended to produce an intelligible programme or service without the use of a device, signal or information provided by a multi-channel video or information service system provider;
+"multi-channel video or information service provider" means the licensed provider of a cable television system, a multi-channel, multi-point distribution service system, a direct broadcast satellite system or other system providing video or information services that are distributed by cable, wire, radio frequency or other media;
+"multi-channel video or information service system" means a cable television system, a multi-channel, multi-point distribution service system, a direct broadcast satellite system or other system providing video or information services that are distributed by cable, wire, radio frequency or other media.
