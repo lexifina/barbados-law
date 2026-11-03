@@ -1,0 +1,6 @@
+# 36B. Evidence in proceedings before Director.
+(1) In any proceedings under this Act before the Director, the evidence may be given by statutory declaration or by affidavit.
+(2) The Director may, in any particular case, take oral evidence in lieu of or in addition to the evidence referred to under subsection (1), and shall, unless he otherwise directs, allow any witness to be cross-examined on his statutory declaration, affidavit or oral evidence.
+(3) At any stage of any proceedings before the Director, he may direct that such documents, information or evidence as he may reasonably require shall be filed within such period as he may specify.
+(4) The Director shall in respect of requiring the attendance of witnesses, the examination of witnesses on oath, the discovery of documents and the production of documents, have all the powers of a judge of the High Court.
+(5) The hearing before the Director of any dispute between 2 or more parties relating to any matter in connection with an application for the registration of a mark or a registered mark shall be in public unless the Director, after consultation with those parties who appear in person or are represented at the hearing, otherwise directs.
