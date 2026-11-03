@@ -42,6 +42,244 @@
      "sha256": "fc2bc5fa8b564c082d9f38a9a7b103f917fbb62f8107ac30a25039945df885d1"
     }
    ]
+  },
+  {
+   "slug": "agricultural-diagnostic-and-other-services-fees",
+   "short": "Agricultural, Diagnostic and Other Services (Fees)",
+   "title": "Agricultural, Diagnostic and Other Services (Fees) Act, Cap. 252A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Agricultural,DiagnosticandOthersServices(Fees)CAP252A.pdf",
+   "versions": [
+    {
+     "from": "1995-12-07",
+     "units": 6,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/Agricultural,DiagnosticandOthersServices(Fees)CAP252A.pdf",
+     "sha256": "eabd6556c433ba069ae499eef1d178fdbfdc1205d25f141e3eecfa7c070909a5"
+    }
+   ]
+  },
+  {
+   "slug": "agricultural-development-fund",
+   "short": "Agricultural Development Fund",
+   "title": "Agricultural Development Fund Act, Cap. 252B",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/AgriculturalDevelopmentFundCAP252B.pdf",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 13,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/AgriculturalDevelopmentFundCAP252B.pdf",
+     "sha256": "127d59420d65e284c395b89507a3a33ba53c0a7ade68b0c797cf5e85fb9b41d9"
+    }
+   ]
+  },
+  {
+   "slug": "aliens",
+   "short": "Aliens",
+   "title": "Aliens Act, Cap. 185",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/AliensCAP185.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 9,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/AliensCAP185.pdf",
+     "sha256": "449af0d5bc92968525d5f69e68f143f2a627ab460e4e638f72a54b06275656d1"
+    }
+   ]
+  },
+  {
+   "slug": "architects-registration",
+   "short": "Architects Registration",
+   "title": "Architects Registration Act, Cap. 366",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ArchitectsRegistrationCAP366.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 25,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ArchitectsRegistrationCAP366.pdf",
+     "sha256": "e7942ded6db66ccaf4f4b6be76f5b5e02ef09c6333ac873276b056cca45e2bfc"
+    }
+   ]
+  },
+  {
+   "slug": "arts-and-sport-promotion-fund",
+   "short": "Arts and Sport Promotion Fund",
+   "title": "Arts and Sport Promotion Fund Act, Cap. 039",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ArtsandSportPromotionFundCAP039.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 13,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ArtsandSportPromotionFundCAP039.pdf",
+     "sha256": "26a0349d3975e82c99e0148aba5bdd4ffff7109444a1e2316105c26277158bbc"
+    }
+   ]
+  },
+  {
+   "slug": "bankruptcy-and-insolvency",
+   "short": "Bankruptcy and Insolvency",
+   "title": "Bankruptcy and Insolvency Act, Cap. 303",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/BankruptcyandInsolvencyCAP303.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 270,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/BankruptcyandInsolvencyCAP303.pdf",
+     "sha256": "af48f65612de4dafc91e24c1c8564ff318c8a7e1a48f35c790dba401907b0235"
+    }
+   ]
+  },
+  {
+   "slug": "barbados-accreditation-council",
+   "short": "Barbados Accreditation Council",
+   "title": "Barbados Accreditation Council Act, Cap. 038A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/BarbadosAccreditationCouncilCAP038A.pdf",
+   "versions": [
+    {
+     "from": "2004-11-15",
+     "units": 31,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/BarbadosAccreditationCouncilCAP038A.pdf",
+     "sha256": "1bd51d8ebccd00d3d664f81ad5b676c13347dca3f3b84784e683d7be51c85b26"
+    }
+   ]
+  },
+  {
+   "slug": "barbados-international-business-promotion-corporation",
+   "short": "Barbados International Business Promotion Corporation",
+   "title": "Barbados International Business Promotion Corporation Act, Cap. 340A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/BarbadosInternationalBusinessPromotionCorporationCAP340A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 25,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/BarbadosInternationalBusinessPromotionCorporationCAP340A.pdf",
+     "sha256": "9addb273dee39acf387c1f6c63de23078fc5b3de6fa448ce885690fd9a42a071"
+    }
+   ]
+  },
+  {
+   "slug": "caribbean-community-movement-of-skilled-nationals",
+   "short": "Caribbean Community (Movement of Skilled Nationals)",
+   "title": "Caribbean Community (Movement of Skilled Nationals) Act, Cap. 186A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CaribbeanCommunity(MovementofSkilledNationals)CAP186A.pdf",
+   "versions": [
+    {
+     "from": "2005-01-24",
+     "units": 20,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CaribbeanCommunity(MovementofSkilledNationals)CAP186A.pdf",
+     "sha256": "dbf5e02f46984d6a3104d7b1bb9d6fee3a92f4769314e850cb746dc5aacc68eb"
+    }
+   ]
+  },
+  {
+   "slug": "caribbean-community",
+   "short": "Caribbean Community",
+   "title": "Caribbean Community Act, Cap. 015",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CaribbeanCommunityCAP015.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 20,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CaribbeanCommunityCAP015.pdf",
+     "sha256": "5258174b2b922540d1b5247c2004197206ffab954a5837139afb4b5a8a6381bf"
+    }
+   ]
+  },
+  {
+   "slug": "caribbean-court-of-justice",
+   "short": "Caribbean Court of Justice",
+   "title": "Caribbean Court of Justice Act, Cap. 117",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CaribbeanCourtofJusticeCAP117.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 34,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CaribbeanCourtofJusticeCAP117.pdf",
+     "sha256": "f199aeb0ebd17decce80b82bec6d366cacc6910deb37222e90cd048ff379f11d"
+    }
+   ]
+  },
+  {
+   "slug": "caribbean-disaster-emergency-response-agency",
+   "short": "Caribbean Disaster Emergency Response Agency",
+   "title": "Caribbean Disaster Emergency Response Agency Act, Cap. 157A",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CaribbeanDisasterEmergencyResponseAgencyCAP157A.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CaribbeanDisasterEmergencyResponseAgencyCAP157A.pdf",
+     "sha256": "d6bf6c55c2b5ec2345379de61be19022c52aff621e53137cdfa4752ca78eb05a"
+    }
+   ]
+  },
+  {
+   "slug": "caribbean-investment-fund",
+   "short": "Caribbean Investment Fund",
+   "title": "Caribbean Investment Fund Act, Cap. 322",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CaribbeanInvestmentFundCAP322.pdf",
+   "versions": [
+    {
+     "from": "1999-07-08",
+     "units": 9,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CaribbeanInvestmentFundCAP322.pdf",
+     "sha256": "f603863aef94017feaa10ba8798ff1e9149c4c06ed15f7bec4786dbefd8bc307"
+    }
+   ]
+  },
+  {
+   "slug": "catastrophe-fund",
+   "short": "Catastrophe Fund",
+   "title": "Catastrophe Fund Act, Cap. 039D",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CatastropheFundCAP039D.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 14,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CatastropheFundCAP039D.pdf",
+     "sha256": "a16e4f854743931c1efd76e6d9bc6da3ae11af09db4d8492544807e7de52b50f"
+    }
+   ]
+  },
+  {
+   "slug": "caves",
+   "short": "Caves",
+   "title": "Caves Act, Cap. 389",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CavesCAP389.pdf",
+   "versions": [
+    {
+     "from": "2000-09-05",
+     "units": 12,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CavesCAP389.pdf",
+     "sha256": "8067189ccf5185d62f0cf7fb35ca5bef0da583d7cd4889c8913665e626280007"
+    }
+   ]
+  },
+  {
+   "slug": "cemeteries",
+   "short": "Cemeteries",
+   "title": "Cemeteries Act, Cap. 039C",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CemeteriesCAP039C.pdf",
+   "versions": [
+    {
+     "from": "1999-06-07",
+     "units": 33,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CemeteriesCAP039C.pdf",
+     "sha256": "98ba311dbe689bef5f5c5672e74be76cac19dbb1d684f7d80a658ae17e48dcd8"
+    }
+   ]
+  },
+  {
+   "slug": "centennial-honour",
+   "short": "Centennial Honour",
+   "title": "Centennial Honour Act, Cap. 400",
+   "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CentennialHonourCAP400.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/CentennialHonourCAP400.pdf",
+     "sha256": "c1e1af4ea457e019b49e33920df698107e2165a4933500e40e5bfb2acfdf0ebd"
+    }
+   ]
   }
  ]
 }

@@ -1,12 +1,13 @@
 # How this repository was made (Barbados)
 
-This file is written by the build on 2026-10-29, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-10-29 | no licence stated |
+| Barbados Law Courts: Statutes of Barbados (consolidated laws) | <https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/> | 2026-11-03 | no licence stated; site footer "Copyright Barbados Judicial System. All Rights Reserved." |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -17,20 +18,37 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `computer-misuse` | Computer Misuse Act, Cap. 124B | 1 | 2022-08-11 to 2022-08-11 |
 | `anti-terrorism` | Anti-Terrorism Act, Cap. 158 | 1 | 2022-08-11 to 2022-08-11 |
 | `bail` | Bail Act, Cap. 122A | 1 | 2022-08-11 to 2022-08-11 |
+| `agricultural-diagnostic-and-other-services-fees` | Agricultural, Diagnostic and Other Services (Fees) Act, Cap. 252A | 1 | 1995-12-07 to 1995-12-07 |
+| `agricultural-development-fund` | Agricultural Development Fund Act, Cap. 252B | 1 | 2001-06-21 to 2001-06-21 |
+| `aliens` | Aliens Act, Cap. 185 | 1 | 2026-11-03 to 2026-11-03 |
+| `architects-registration` | Architects Registration Act, Cap. 366 | 1 | 2026-11-03 to 2026-11-03 |
+| `arts-and-sport-promotion-fund` | Arts and Sport Promotion Fund Act, Cap. 039 | 1 | 2026-11-03 to 2026-11-03 |
+| `bankruptcy-and-insolvency` | Bankruptcy and Insolvency Act, Cap. 303 | 1 | 2026-11-03 to 2026-11-03 |
+| `barbados-accreditation-council` | Barbados Accreditation Council Act, Cap. 038A | 1 | 2004-11-15 to 2004-11-15 |
+| `barbados-international-business-promotion-corporation` | Barbados International Business Promotion Corporation Act, Cap. 340A | 1 | 2026-11-03 to 2026-11-03 |
+| `caribbean-community-movement-of-skilled-nationals` | Caribbean Community (Movement of Skilled Nationals) Act, Cap. 186A | 1 | 2005-01-24 to 2005-01-24 |
+| `caribbean-community` | Caribbean Community Act, Cap. 015 | 1 | 2026-11-03 to 2026-11-03 |
+| `caribbean-court-of-justice` | Caribbean Court of Justice Act, Cap. 117 | 1 | 2026-11-03 to 2026-11-03 |
+| `caribbean-disaster-emergency-response-agency` | Caribbean Disaster Emergency Response Agency Act, Cap. 157A | 1 | 2026-11-03 to 2026-11-03 |
+| `caribbean-investment-fund` | Caribbean Investment Fund Act, Cap. 322 | 1 | 1999-07-08 to 1999-07-08 |
+| `catastrophe-fund` | Catastrophe Fund Act, Cap. 039D | 1 | 2026-11-03 to 2026-11-03 |
+| `caves` | Caves Act, Cap. 389 | 1 | 2000-09-05 to 2000-09-05 |
+| `cemeteries` | Cemeteries Act, Cap. 039C | 1 | 1999-06-07 to 1999-06-07 |
+| `centennial-honour` | Centennial Honour Act, Cap. 400 | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 3 commits:
+The build made 20 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3 | first version of an act |
+| 20 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-10-29.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 0 laws in the record.
-- 3 tags.
+- 35 laws in the record.
+- 27 tags.
 
 ## Dates
 
@@ -42,8 +60,8 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `80f6a554c67a48dd7ee840254996a7e75f5bf6137dcae8dc56e473371c75cf3b` (115383 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `6229396f41c9d7f1d6f405becfbe4097b35b82da`, `check.py` `5e112e6a33b7e93d00112e55f01fbb4fb3fdd8da`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `ec245e335afd5716e6d0ec7f3d381ce69b827ae5f59b7005d9958ce3a9c7c8f2` (1345792 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -57,6 +75,8 @@ No second build of this corpus has been compared yet.
 - Three Acts were chosen because their PDFs are born-digital (Acrobat Distiller): Computer Misuse Cap. 124B, Anti-Terrorism Cap. 158 and Bail Cap. 122A. The Constitution, Citizenship and Interpretation PDFs are scans with an incomplete OCR layer and were not used (no OCR).
 - Sections are split by sequential section number; margin notes, footnotes, page headers and italic sub-headings are dropped; schedules, where present, stay at the end of the last section.
 - Version date 2022-08-11 is the Last-Modified header of each PDF (the source gives no consolidation date in the text beyond the L.R.O. year).
+- Acts in parts 30-acts-*: each Act is one version, the Law Revision Office consolidation the Barbados Law Courts publish. The edition prints only its L.R.O. year. An Act whose long-title margin note names no amending Act is dated by the commencement date printed under its long title and credited to the Act; every other Act is dated by the day its text was retrieved and credited to the publisher as the oldest version available, naming the Acts in that note.
+- Marginal notes (section headings and amendment references) are not text: the heading becomes the section's first line and amendment references are dropped. Cross-headings ("PART II", "Citation") stay as lines where the print puts them.
 
 ## What AI did and did not do
 
@@ -68,3 +88,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code wrote the parser; it did not write or alter any legal text. 0 model calls at data-build time.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, which selects, dates and checks the Acts. No model wrote, summarised or transformed legal text: the reader is deterministic code over the PDF text layer.
