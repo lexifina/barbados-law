@@ -1,0 +1,2 @@
+# 22C. Accounts.
+The Authority shall keep proper accounts of its transactions in relation to the administration of the resources of the Authority in accordance with the directions of the Auditor-General, and shall submit to the Auditor-General a statement of accounts in respect of each financial year.
