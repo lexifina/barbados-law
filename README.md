@@ -1,142 +1,84 @@
 # Barbados: law history in git
 
+
+The law of Barbados as a git history: one file per section, one commit per version on the day it took effect where the text gives that day, and the Act that made it as the commit's author where the edition names one. `git blame` names the Act (or the publisher) behind every line; `git log` lists every change to a section; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Barbados' national law, which global-law reads at `barbados/national/acts/`.
 
-The law of Barbados as a git history: one file per provision, and the law that made each change as the commit's author, so `git blame` names the law behind every line.
+**What is in it now:** 122 Acts of the Laws of Barbados, each in one version so far (4,695 sections, schedules and preambles): 50 dated by their commencement, from 1994 to 2009, and 72 as the oldest version available. There is no `PLAN.md`; [`REPRODUCE.md`](REPRODUCE.md) lists every Act with its version, and [`data/laws.csv`](data/laws.csv) lists the 227 Acts the record names (the 50 credited Acts and those the other Acts' margin notes name).
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `bb/`.
+Each Act is a folder named after its short title, with one file per section, schedule and preamble, plus a `README.md` listing its provisions (`consumer-protection/sec-007.md` is section 7, Unfair terms, of the Consumer Protection Act, Cap. 326D).
 
-**What is in it now**
+The text is in English, as the Barbados Law Courts' PDFs print it; each margin note gives its section's heading, and the amendment references in the margin are left out.
 
-<!-- acts:start -->
-| Folder | Act | Versions | Dated |
-| --- | --- | ---: | --- |
-| `agricultural-development-fund/` | Agricultural Development Fund Act, Cap. 252B | 1 | 2001-06-21, commencement (never amended in this edition) |
-| `agricultural-diagnostic-and-other-services-fees/` | Agricultural, Diagnostic and Other Services (Fees) Act, Cap. 252A | 1 | 1995-12-07, commencement (never amended in this edition) |
-| `aliens/` | Aliens Act, Cap. 185 | 1 | 2026-11-03, oldest version available |
-| `anti-terrorism/` | Anti-Terrorism Act, Cap. 158 | 1 | 2022-08-11, oldest version available |
-| `architects-registration/` | Architects Registration Act, Cap. 366 | 1 | 2026-11-03, oldest version available |
-| `arts-and-sport-promotion-fund/` | Arts and Sport Promotion Fund Act, Cap. 039 | 1 | 2026-11-03, oldest version available |
-| `bail/` | Bail Act, Cap. 122A | 1 | 2022-08-11, oldest version available |
-| `bankruptcy-and-insolvency/` | Bankruptcy and Insolvency Act, Cap. 303 | 1 | 2026-11-03, oldest version available |
-| `barbados-accreditation-council/` | Barbados Accreditation Council Act, Cap. 038A | 1 | 2004-11-15, commencement (never amended in this edition) |
-| `barbados-international-business-promotion-corporation/` | Barbados International Business Promotion Corporation Act, Cap. 340A | 1 | 2026-11-03, oldest version available |
-| `caribbean-community/` | Caribbean Community Act, Cap. 015 | 1 | 2026-11-03, oldest version available |
-| `caribbean-community-movement-of-skilled-nationals/` | Caribbean Community (Movement of Skilled Nationals) Act, Cap. 186A | 1 | 2005-01-24, commencement (never amended in this edition) |
-| `caribbean-court-of-justice/` | Caribbean Court of Justice Act, Cap. 117 | 1 | 2026-11-03, oldest version available |
-| `caribbean-disaster-emergency-response-agency/` | Caribbean Disaster Emergency Response Agency Act, Cap. 157A | 1 | 2026-11-03, oldest version available |
-| `caribbean-investment-fund/` | Caribbean Investment Fund Act, Cap. 322 | 1 | 1999-07-08, commencement (never amended in this edition) |
-| `catastrophe-fund/` | Catastrophe Fund Act, Cap. 039D | 1 | 2026-11-03, oldest version available |
-| `caves/` | Caves Act, Cap. 389 | 1 | 2000-09-05, commencement (never amended in this edition) |
-| `cemeteries/` | Cemeteries Act, Cap. 039C | 1 | 1999-06-07, commencement (never amended in this edition) |
-| `centennial-honour/` | Centennial Honour Act, Cap. 400 | 1 | 2026-11-03, oldest version available |
-| `civil-aviation/` | Civil Aviation Act, Cap. 288B | 1 | 2026-11-03, oldest version available |
-| `civil-aviation-montreal-convention/` | Civil Aviation (Montreal Convention) Act, Cap. 123A | 1 | 2026-11-03, oldest version available |
-| `coastal-zone-management/` | Coastal Zone Management Act, Cap. 394 | 1 | 2000-05-01, commencement (never amended in this edition) |
-| `computer-misuse/` | Computer Misuse Act, Cap. 124B | 1 | 2022-08-11, oldest version available |
-| `conferment-of-the-gold-award-of-achievement/` | conferment of the Gold Award of Achievement Act, Cap. 401 | 1 | 2001-04-30, commencement (never amended in this edition) |
-| `constituency-councils/` | Constituency Councils Act, Cap. 004 | 1 | 2009-04-06, commencement (never amended in this edition) |
-| `consular-and-notarial-services-fees/` | Consular and Notarial Services Fees Act, Cap. 013B | 1 | 2026-11-03, oldest version available |
-| `consumer-guarantees/` | Consumer Guarantees Act, Cap. 326E | 1 | 2003-01-16, commencement (never amended in this edition) |
-| `consumer-protection/` | Consumer Protection Act, Cap. 326D | 1 | 2003-01-16, commencement (never amended in this edition) |
-| `coroners/` | Coroners Act, Cap. 113 | 1 | 2026-11-03, oldest version available |
-| `cricket-legendsof-barbados-inc/` | Cricket Legendsof Barbados Inc. Act, Cap. 378 | 1 | 2008-08-25, commencement (never amended in this edition) |
-| `criminal-appeal/` | Criminal Appeal Act, Cap. 113A | 1 | 2026-11-03, oldest version available |
-| `criminal-law-arrestable-offences/` | Criminal Law (Arrestable Offences) Act, Cap. 125A | 1 | 1994-09-01, commencement (never amended in this edition) |
-| `criminal-records-rehabilitation-of-offenders/` | Criminal Records (Rehabilitation of Offenders) Act, Cap. 127A | 1 | 2026-11-03, oldest version available |
-| `deposit-insurance/` | Deposit Insurance Act, Cap. 323 | 1 | 2007-06-08, commencement (never amended in this edition) |
-| `duties-taxes-and-other-payments-exemption/` | Duties, Taxes and other Payments (Exemption) Act, Cap. 067B | 1 | 2026-11-03, oldest version available |
-| `electronic-transactions/` | Electronic Transactions Act, Cap. 308B | 1 | 2001-03-08, commencement (never amended in this edition) |
-| `emergency-management/` | Emergency Management Act, Cap. 160A | 1 | 2007-04-01, commencement (never amended in this edition) |
-| `emergency-powers/` | Emergency Powers Act, Cap. 161 | 1 | 2026-11-03, oldest version available |
-| `environmental-levy/` | Environmental Levy Act, Cap. 070 | 1 | 1996-07-01, commencement (never amended in this edition) |
-| `estate-duty-waiver/` | Estate Duty (Waiver) Act, Cap. 065 | 1 | 2026-11-03, oldest version available |
-| `export-promotion-and-marketing-fund/` | Export Promotion and Marketing Fund Act, Cap. 346A | 1 | 2026-11-03, oldest version available |
-| `fair-competition/` | Fair Competition Act, Cap. 326C | 1 | 2026-11-03, oldest version available |
-| `fair-trading-commission/` | Fair Trading Commission Act, Cap. 326B | 1 | 2026-11-03, oldest version available |
-| `financial-institutions/` | Financial Institutions Act, Cap. 324A | 1 | 2026-11-03, oldest version available |
-| `financial-management-and-audit/` | Financial Management and Audit Act, Cap. 5 | 1 | 2026-11-03, oldest version available |
-| `forensic-procedures-and-dna-identification/` | Forensic Procedures and DNA Identification Act, Cap. 121B | 1 | 2005-03-03, commencement (never amended in this edition) |
-| `free-trade-area-agreement-establishing-the-free-trade-area-between-the-caribbean/` | Free Trade Area (Agreement establishing the Free Trade Area between the Caribbean and the Government of the Republic of Costa Rica) Act, Cap. 332 | 1 | 2006-04-13, commencement (never amended in this edition) |
-| `free-trade-area-agreement-establishing-the-free-trade-area-between-the-caribbean-cap-334/` | Free Trade Area (Agreement establishing the Free Trade Area between the Caribbean Community and the Dominican Republic) Act, Cap. 334 | 1 | 2006-04-13, commencement (never amended in this edition) |
-| `geographical-indications/` | Geographical Indications Act, Cap. 320 | 1 | 2001-02-19, commencement (never amended in this edition) |
-| `guarantee-of-loans-companies/` | Guarantee of Loans (Companies) Act, Cap. 096 | 1 | 2026-11-03, oldest version available |
-| `housing-incentives/` | Housing Incentives Act, Cap. 226A | 1 | 2007-12-20, commencement (never amended in this edition) |
-| `icc-cricket-world-cup-west-indies-2007-guarantee/` | ICC Cricket World Cup West Indies 2007 (Guarantee) Act, Cap. 099 | 1 | 2004-12-23, commencement (never amended in this edition) |
-| `institute-of-chartered-accountants-of-barbados-incorporation/` | Institute of Chartered Accountants of Barbados (Incorporation) Act, Cap. 369A | 1 | 2026-11-03, oldest version available |
-| `insurance/` | Insurance Act, Cap. 310 | 1 | 2026-11-03, oldest version available |
-| `insurance-corporation-of-barbados-transfer-and-vesting-of-assets/` | Insurance Corporation of Barbados (Transfer and Vesting of Assets) Act, Cap. 311 | 1 | 2000-12-06, commencement (never amended in this edition) |
-| `integrated-circuits/` | Integrated Circuits Act, Cap. 320A | 1 | 2026-11-03, oldest version available |
-| `international-commercial-arbitration/` | International Commercial Arbitration Act, Cap. 110B | 1 | 2009-01-19, commencement (never amended in this edition) |
-| `international-development-association-membership-of-barbados/` | International Development Association (Membership of Barbados) Act, Cap. 323E | 1 | 2026-11-03, oldest version available |
-| `international-trade-in-endangered-species-of-wild-fauna-and-flora/` | International Trade in Endangered Species of Wild Fauna and Flora Act, Cap. 262 | 1 | 2026-11-03, oldest version available |
-| `international-trusts/` | International Trusts Act, Cap. 245 | 1 | 2026-11-03, oldest version available |
-| `land-title-deeds-restoration/` | Land (Title Deeds Restoration) Act, Cap. 229C | 1 | 1995-04-01, commencement (never amended in this edition) |
-| `liat-1974-limited-guarantee/` | LIAT (1974) Limited (Guarantee) Act, Cap. 289B | 1 | 2026-11-03, oldest version available |
-| `liat-1974-limited-guarantee-of-interest/` | LIAT (1974) Limited (Guarantee of Interest) Act, Cap. 289A | 1 | 2003-07-14, commencement (never amended in this edition) |
-| `limitation-and-prescription/` | Limitation and Prescription Act, Cap. 232 | 1 | 2026-11-03, oldest version available |
-| `limitationof-actions/` | Limitationof Actions Act, Cap. 231 | 1 | 1997-10-01, commencement (never amended in this edition) |
-| `magistrates-courts/` | Magistrate's Courts Act, Cap. 116A | 1 | 2026-11-03, oldest version available |
-| `marine-pollution-control/` | Marine Pollution Control Act, Cap. 392A | 1 | 2026-11-03, oldest version available |
-| `maritime-international-co-operation/` | Maritime International Co-operation Act, Cap. 013C | 1 | 1998-09-10, commencement (never amended in this edition) |
-| `minor-offences/` | Minor Offences Act, Cap. 137 | 1 | 1998-02-05, commencement (never amended in this edition) |
-| `money-laundering-and-financing-of-terrorism-prevention-and-control/` | Money Laundering and Financing of Terrorism (Prevention and Control) Act, Cap. 129 | 1 | 2026-11-03, oldest version available |
-| `mutual-funds/` | Mutual Funds Act, Cap. 320B | 1 | 2002-12-12, commencement (never amended in this edition) |
-| `national-art-gallery/` | National Art Gallery Act, Cap. 048B | 1 | 2026-11-03, oldest version available |
-| `national-union-of-public-workers-guarantee-of-loan/` | National Union of Public Workers (Guarantee of Loan) Act, Cap. 100 | 1 | 2007-12-20, commencement (never amended in this edition) |
-| `nurses/` | Nurses Act, Cap. 372 | 1 | 2008-12-01, commencement (never amended in this edition) |
-| `occupational-pension-benefits/` | Occupational Pension Benefits Act, Cap. 350B | 1 | 2026-11-03, oldest version available |
-| `offshore-petroleum/` | Offshore Petroleum Act, Cap. 282A | 1 | 2026-11-03, oldest version available |
-| `offshore-petroleum-taxation/` | Offshore Petroleum (Taxation) Act, Cap. 080 | 1 | 2026-11-03, oldest version available |
-| `order-of-national-heroes/` | Order of National Heroes Act, Cap. 399 | 1 | 1998-04-20, commencement (never amended in this edition) |
-| `passports-and-travel-documents-fees/` | Passports and Travel Documents (Fees) Act, Cap. 081 | 1 | 2026-11-03, oldest version available |
-| `patents/` | Patents Act, Cap. 314 | 1 | 2026-11-03, oldest version available |
-| `penal-system-reform/` | Penal System Reform Act, Cap. 139 | 1 | 2026-11-03, oldest version available |
-| `pierhead-development/` | Pierhead Development Act, Cap. 394A | 1 | 2026-11-03, oldest version available |
-| `police-complaints-authority/` | Police Complaints Authority Act, Cap. 167A | 1 | 2026-11-03, oldest version available |
-| `port-st-charles-development/` | Port St.Charles Development Act, Cap. 234 | 1 | 2000-12-01, commencement (never amended in this edition) |
-| `prevention-of-cruelty-to-animals/` | Prevention of Cruelty to Animals Act, Cap. 144A | 1 | 2026-11-03, oldest version available |
-| `property-transfer-tax/` | Property Transfer Tax Act, Cap. 084A | 1 | 2026-11-03, oldest version available |
-| `protection-against-unfair-competition/` | Protection Against Unfair Competition Act, Cap. 329A | 1 | 2001-02-19, commencement (never amended in this edition) |
-| `protection-of-new-plant-varieties/` | Protection of New Plant Varieties Act, Cap. 267 | 1 | 2001-08-06, commencement (never amended in this edition) |
-| `public-accounts-committee/` | Public Accounts Committee Act, Cap. 010A | 1 | 2003-07-14, commencement (never amended in this edition) |
-| `public-service/` | Public Service Act, Cap. 029 | 1 | 2026-11-03, oldest version available |
-| `public-service-restoration-of-emoluments/` | Public Service (Restoration of Emoluments) Act, Cap. 031A | 1 | 2026-11-03, oldest version available |
-| `queen-elizabeth-hospital/` | Queen Elizabeth Hospital Act, Cap. 054 | 1 | 2026-11-03, oldest version available |
-| `referendum/` | Referendum Act, Cap. 011A | 1 | 2026-11-03, oldest version available |
-| `regional-security-system/` | Regional Security System Act, Cap. 174B | 1 | 2026-11-03, oldest version available |
-| `repatriation-of-prisoners/` | Repatriation of Prisoners Act, Cap. 168B | 1 | 2026-11-03, oldest version available |
-| `roman-catholic-bishop-of-bridgetown/` | Roman Catholic Bishop of Bridgetown Act, Cap. 375A | 1 | 2026-11-03, oldest version available |
-| `rural-development-commission/` | Rural Development Commission Act, Cap. 238 | 1 | 1996-03-01, commencement (never amended in this edition) |
-| `safety-and-health-at-work/` | Safety and Health at Work Act, Cap. 356 | 1 | 2026-11-03, oldest version available |
-| `scotland-district-authority/` | Scotland District Authority Act, Cap. 395B | 1 | 2026-11-03, oldest version available |
-| `securities/` | Securities Act, Cap. 318A | 1 | 2026-11-03, oldest version available |
-| `security-assistance-caricom-member-states/` | Security Assistance (CARICOM Member States) Act, Cap. 174C | 1 | 2007-03-12, commencement (never amended in this edition) |
-| `serial-bonds/` | Serial Bonds Act, Cap. 104B | 1 | 1997-12-25, commencement (never amended in this edition) |
-| `shipping-corporations/` | Shipping Corporations Act, Cap. 296B | 1 | 1996-09-09, commencement (never amended in this edition) |
-| `shipping-incentives/` | Shipping (Incentives) Act, Cap. 090A | 1 | 2026-11-03, oldest version available |
-| `small-business-development/` | Small Business Development Act, Cap. 318C | 1 | 2026-11-03, oldest version available |
-| `societies-with-restricted-liability/` | Societies With Restricted Liability Act, Cap. 318B | 1 | 2026-11-03, oldest version available |
-| `special-development-areas/` | Special Development Areas Act, Cap. 237A | 1 | 2026-11-03, oldest version available |
-| `st-john-ambulance-associationof-barbados-incorporation/` | St.John Ambulance Associationof Barbados (Incorporation) Act, Cap. 380C | 1 | 2003-12-25, commencement (never amended in this edition) |
-| `standards/` | Standards Act, Cap. 326A | 1 | 2006-06-01, commencement (never amended in this edition) |
-| `telecommunications/` | Telecommunications Act, Cap. 282B | 1 | 2026-11-03, oldest version available |
-| `tourism-development/` | Tourism Development Act, Cap. 341 | 1 | 2002-08-31, commencement (never amended in this edition) |
-| `trade-and-economic-co-operation-agreement-between-the-caribbean-community-carico/` | Trade and Economic Co-operation (Agreement between the Caribbean Community (CARICOM) and the Government of the Republic of Cuba) Act, Cap. 337 | 1 | 2006-04-13, commencement (never amended in this edition) |
-| `trade-economic-and-technical-agreement-agreement-between-the-caribbean-community/` | Trade, Economic and Technical Agreement (Agreement between the Caribbean Community and the Government of the Republic of Colombia) Act, Cap. 335 | 1 | 2006-04-13, commencement (never amended in this edition) |
-| `trade-marks/` | Trade Marks Act, Cap. 319 | 1 | 2026-11-03, oldest version available |
-| `trafalgar-square-change-of-name/` | Trafalgar Square (Change of Name) Act, Cap. 241A | 1 | 1999-04-26, commencement (never amended in this edition) |
-| `transport-authority/` | Transport Authority Act, Cap. 295A | 1 | 2026-11-03, oldest version available |
-| `travel-services/` | Travel Services Act, Cap. 373A | 1 | 2026-11-03, oldest version available |
-| `treasury-bills-and-tax-certificates/` | Treasury Bills and Tax Certificates Act, Cap. 106 | 1 | 2026-11-03, oldest version available |
-| `university-of-the-west-indies-guarantee-of-bonds/` | University of the West Indies (Guarantee of Bonds) Act, Cap. 106A | 1 | 2026-11-03, oldest version available |
-| `university-of-the-west-indies-guarantee-of-loans/` | University of the West Indies (Guarantee of Loans) Act, Cap. 106B | 1 | 2007-08-16, commencement (never amended in this edition) |
-| `urban-development-commission/` | Urban Development Commission Act, Cap. 241 | 1 | 2026-11-03, oldest version available |
-| `utilities-regulation/` | Utilities Regulation Act, Cap. 282 | 1 | 2026-11-03, oldest version available |
-<!-- acts:end -->
+## Questions as git commands
 
-Language: English. The text is that of the born-digital PDFs published by the Barbados Law Courts; the older scanned Acts (the Constitution, for one) have only an OCR text layer and are not included.
+| Question | Command |
+| --- | --- |
+| Every change to section 7 of the Consumer Protection Act | `git log -p --word-diff -- consumer-protection/sec-007.md` |
+| Which Act wrote each line of section 7? | `git blame consumer-protection/sec-007.md` |
+| Every version of the Act, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- consumer-protection ':!*/README.md'` |
+| Section 7 as in force on 1 January 2015 | `python tools/on.py 2015-01-01 consumer-protection 7` |
 
-Every Act whose PDF is born-digital is included; the many scanned Acts are not (no OCR). Each Act is one version: the Law Revision Office consolidation as published. The editions print only their L.R.O. year, not the day the law is stated at. An Act whose margin note names no amending Act is dated by the commencement date printed under its long title and credited to the Act. Every other Act is an "oldest version available" commit credited to the publisher, dated by the day its text was retrieved (the first three Acts: 2022-08-11, the PDFs' Last-Modified date), and naming the Acts in its margin note; its wording may predate later amendments the edition does not show. Marginal notes give each section's heading; amendment references in the margin are left out.
+**Outside git**, we also host this record publicly, for free:
 
-Sources and terms are in `LICENSE`; how it was built is in `REPRODUCE.md`. Not legal advice; for anything that matters, read the original.
+- **[Ask Claude about Barbadian law](https://global-law.lexifina.com/v1/try_claude?country=barbados)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=barbados)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=unfair+terms&jurisdictions=barbados)**: a search of Barbadian law for "unfair terms", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add barbados/national/acts
+python3 tools/law.py show 2026-01-01 barbados/national/acts/consumer-protection/sec-007.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+
+## Dates
+
+Each commit is dated at noon, America/Barbados, on the day the version took effect, and carries it in its `In-force:` trailer. The editions print only their L.R.O. year, not the day the law is stated at, so:
+
+- an Act whose margin note at the long title names no amending Act is dated by the commencement date printed under its long title (50 Acts);
+- every other Act is dated by the day its text was retrieved, 2026-11-03 (the first three, Anti-Terrorism, Bail and Computer Misuse, 2022-08-11, the Last-Modified date of their PDFs).
+
+The 50 are credited to the Act itself (`Act 2002-20`); the other 72 are "oldest version available" commits credited to the publisher, `Supreme Court Registry, Barbados Law Courts (Laws of Barbados)`, and their messages name the Acts in the margin note.
+
+## How it is checked
+
+- `tools/check_repo.py` reads every Act back from git on the day its version took effect, choosing the commit by its `In-force:` trailer, and compares it file by file with the corpus it was built from; it also checks that every commit's trailers parse and that there are no merge commits. [`REPRODUCE.md`](REPRODUCE.md) records no run of it for the current build yet.
+- `tools/build.py` writes the history from the corpus in one pass, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the corpus's sha256 and the builder's hashes. No second build has been compared yet.
+- Only born-digital PDFs are read, from their text layer; scanned PDFs, whose OCR layer is incomplete, are left out rather than read with errors.
+- History is append-only: each batch of Acts was appended with its own documentation commit, and nothing is rewritten.
+
+## What it does not show
+
+- **Most Barbados law.** 122 of the 540 PDFs the Barbados Law Courts list: the scanned Acts (the Constitution, Citizenship and Interpretation Acts among them) are not read. No subsidiary legislation and no case law.
+- **Amendments after an edition, and earlier versions.** Each Act is one Law Revision Office consolidation; an "oldest version available" text may predate amendments the edition does not show, and no Act's earlier wording is here.
+- **The amendment references in the margin**, which say which Act changed a section.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Statutes of Barbados](https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/) (Barbados Law Courts) | Consolidated laws, Law Revision Office editions | no, one edition per Act, dated only by its L.R.O. year | Each Act's text, commencement date and margin notes, from its PDF |
+
+## Licence
+
+See [`LICENSE`](LICENSE). The Barbados Law Courts site states no licence (its footer reads "Copyright Barbados Judicial System. All Rights Reserved."); the text of the laws is reproduced for reference with attribution to the publisher. The arrangement of this repository, its commit messages and tools are Lexifina's, under CC BY 4.0.
+
+No AI model wrote, translated or corrected legal text; the scripts that read the sources and build this repository were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
