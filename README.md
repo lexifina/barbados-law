@@ -1,5 +1,9 @@
 # Barbados: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Barbadian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
 
 The law of Barbados as a git history: one file per section, one commit per version on the day it took effect where the text gives that day, and the Act that made it as the commit's author where the edition names one. `git blame` names the Act (or the publisher) behind every line; `git log` lists every change to a section; picking a date gives the text in force that day.
 
