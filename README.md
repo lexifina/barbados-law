@@ -58,6 +58,7 @@ The 50 are credited to the Act itself (`Act 2002-20`); the other 72 are "oldest 
 - `tools/build.py` writes the history from the corpus in one pass, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the corpus's sha256 and the builder's hashes. No second build has been compared yet.
 - Only born-digital PDFs are read, from their text layer; scanned PDFs, whose OCR layer is incomplete, are left out rather than read with errors.
 - History is append-only: each batch of Acts was appended with its own documentation commit, and nothing is rewritten.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -76,6 +77,10 @@ The 50 are credited to the Act itself (`Act 2002-20`); the other 72 are "oldest 
 See [`LICENSE`](LICENSE). The Barbados Law Courts site states no licence (its footer reads "Copyright Barbados Judicial System. All Rights Reserved."); the text of the laws is reproduced for reference with attribution to the publisher. The arrangement of this repository, its commit messages and tools are Lexifina's, under CC BY 4.0.
 
 No AI model wrote, translated or corrected legal text; the scripts that read the sources and build this repository were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
