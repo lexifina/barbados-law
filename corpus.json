@@ -1,0 +1,12 @@
+﻿{
+  "corpus": "bb/national/acts",
+  "name": "Barbados: the Constitution, the consolidated Laws of Barbados (L.R.O. editions) and their subsidiary legislation, and the annual Acts and statutory instruments, from the Barbados Law Courts",
+  "label": "Barbados",
+  "language": "en",
+  "folders": [
+    "constitution",
+    "revised-laws",
+    "acts",
+    "subsidiary"
+  ]
+}

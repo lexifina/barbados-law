@@ -1,3 +1,21 @@
-Text: Laws of Barbados (consolidated laws), as published by the Barbados Law Courts, Government of Barbados (https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws/statutes-of-barbados/). The site states no licence (its footer reads "Copyright Barbados Judicial System. All Rights Reserved."; its Terms & Conditions link leads nowhere); the text of the laws is reproduced for reference with attribution to the publisher. How each version is dated is set out in README.md.
+﻿Lexifina's own contributions in this repository (the arrangement of the history, the file layout, the commit messages
+and the tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
 
-The arrangement of this repository, its commit messages and tools are by Lexifina and may be reused under the Creative Commons Attribution 4.0 International licence (https://creativecommons.org/licenses/by/4.0/). This repository is not legal advice and not an official publication.
+The legal text is from the Barbados Law Courts site of the Barbados Judicial System (https://www.barbadoslawcourts.gov.bb):
+the Statutes of Barbados and the Subsidiary Legislation of Barbados (consolidated by the Law Revision Office,
+https://www.barbadoslawcourts.gov.bb/laws/consolidated-laws), and the annual Acts and statutory instruments
+(https://www.barbadoslawcourts.gov.bb/laws/annuals), retrieved from 3 November 2026 on. The site states no licence;
+its footer reads "Copyright Barbados Judicial System. All Rights Reserved." and its Terms & Conditions link leads
+nowhere. Its robots.txt asks for a 10-second crawl delay, which was kept, and does not restrict these files. The
+legal text is reproduced for reference with attribution to the publisher, and remains subject to whatever rights the
+Government of Barbados holds in it; this repository claims none.
+
+The text is the PDFs' own text layer. Where that layer was made by the publisher from page scans it is taken as
+served, with its recognition errors, and each such commit says so in its Text-source trailer. No OCR was run for this
+repository.
+
+Changes made by Lexifina: running heads and page numbers were removed, marginal notes were set aside where the PDF
+sets them in a smaller type, and each text was split into one Markdown file per section and schedule. The wording of
+the law was not changed. The Government of Barbados and the Barbados Judicial System do not endorse this repository.
+This repository is not legal advice and not an official publication.
