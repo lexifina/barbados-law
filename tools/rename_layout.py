@@ -1,4 +1,4 @@
-﻿"""One-off: move the flat <slug>/ Act folders of barbados-law into revised-laws/cap-NNN-<slug>/ (pure renames).
+"""One-off: move the flat <slug>/ Act folders of barbados-law into revised-laws/cap-NNN-<slug>/ (pure renames).
 python -I tools/rename_layout.py <repo> [--dry]"""
 import re, subprocess, sys, os
 

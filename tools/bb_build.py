@@ -1,4 +1,4 @@
-﻿"""Append the law of Barbados to the barbados-law repository as git fast-import commits on main.
+"""Append the law of Barbados to the barbados-law repository as git fast-import commits on main.
 
 python -I tools/bb_build.py <repo> [--limit N] [--dry]
 

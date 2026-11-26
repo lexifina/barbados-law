@@ -1,4 +1,4 @@
-﻿# Structure
+# Structure
 
 The law of Barbados, laid out by type and year. No folder holds more than 1,000 entries.
 

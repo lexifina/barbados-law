@@ -1,4 +1,4 @@
-﻿# How this repository was made (Barbados)
+# How this repository was made (Barbados)
 
 ## History of the build
 

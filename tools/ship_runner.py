@@ -50,7 +50,20 @@ while True:
                 "data/held.json: instruments held back (no usable text layer, no date found, duplicate or not fetched)",
                 f"data/held.json={src}", env=ENV)
             push()
+    # case law (private repository): append new judgments, push
+    CL = os.path.join(os.path.dirname(ROOT), "barbados-law-caselaw")
+    c = run(sys.executable, "-I", os.path.join(ROOT, "tools", "caselaw_build.py"), CL, env=ENV)
+    log("caselaw build: " + (c.stdout.strip() or c.stderr.strip()[-300:]))
+    if "committed" in c.stdout and "fast-import rc 0" in c.stdout:
+        hsrc = os.path.join(ROOT, "caselaw", "held.json")
+        if os.path.exists(hsrc):
+            run(sys.executable, "-I", os.path.join(ROOT, "tools", "commit_files.py"), CL,
+                "data/held.json: judgments held back (protected, no text layer, no date)", f"data/held.json={hsrc}", env=ENV)
+        q = run("git", "-C", CL, "push", "-q", "origin", "main")
+        loc = run("git", "-C", CL, "rev-parse", "main").stdout.strip()
+        rem = run("git", "-C", CL, "ls-remote", "origin", "refs/heads/main").stdout.split()
+        log(f"caselaw push {'OK' if rem and rem[0] == loc else 'MISMATCH'} {loc[:10]}")
     done = open(LOG, encoding="utf8").read()
-    if "fetch DONE" in done and r is not None and "nothing new" in r.stdout:
+    if "fetch DONE" in done and r is not None and "nothing new" in r.stdout and "nothing new" in c.stdout:
         log("all fetched and shipped"); break
     time.sleep(900)

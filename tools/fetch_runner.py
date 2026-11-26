@@ -1,4 +1,4 @@
-﻿"""The single network runner for Barbados: one request at a time to www.barbadoslawcourts.gov.bb, 10.5 s apart
+"""The single network runner for Barbados: one request at a time to www.barbadoslawcourts.gov.bb, 10.5 s apart
 (its robots.txt: Crawl-delay 10). Back off on 429/5xx; stop after 3 blocks (403/429/unreachable) in a row.
 
 Order: listing pages; the Constitution and the core statutes; every consolidated statute; the annual Acts;
@@ -280,19 +280,21 @@ def ccj():
                 time.sleep(30)
         return -1, b"", {}
     try:
-        if not j["listed"]:
-            pg, pages = 1, 1
-            while pg <= pages:
-                st, b, h = get(f"https://ccj.org/wp-json/wp/v2/media?search=BB&mime_type=application/pdf&per_page=100&page={pg}")
-                if st != 200:
-                    log(f"ccj list HTTP {st}"); return
-                pages = int(h.get("X-WP-TotalPages") or h.get("x-wp-totalpages") or 1)
-                for m in json.loads(b):
-                    u = m.get("source_url") or ""
-                    if re.search(r"(?i)(?<![A-Za-z])CCJ[_\- ]?\d+[_\- ]?\(?AJ\)?[_\- ]?(?:BB|Bds)(?![A-Za-z])", u.rsplit("/", 1)[-1]):
-                        j["items"][u] = {"date": m.get("date"), "title": html.unescape((m.get("title") or {}).get("rendered", ""))}
-                pg += 1
-            j["listed"] = True; save(out, j)
+        if not j.get("listed2"):
+            for q, pat in (("BB", r"(?i)(?<![A-Za-z])CCJ[_\- ]?\d+[_\- ]?\(?AJ\)?[_\- ]?(?:BB|Bds)(?![A-Za-z])"),
+                           ("BBCV", r"(?i)CCJ[_\- ]?\(?\d+\)?[_\- ]?\(?AJ\)?"), ("BBCR", r"(?i)CCJ[_\- ]?\(?\d+\)?[_\- ]?\(?AJ\)?")):
+                pg, pages = 1, 1
+                while pg <= pages:
+                    st, b, h = get(f"https://ccj.org/wp-json/wp/v2/media?search={q}&mime_type=application/pdf&per_page=100&page={pg}")
+                    if st != 200:
+                        log(f"ccj list HTTP {st}"); return
+                    pages = int(h.get("X-WP-TotalPages") or h.get("x-wp-totalpages") or 1)
+                    for m in json.loads(b):
+                        u = m.get("source_url") or ""
+                        if re.search(pat, u.rsplit("/", 1)[-1]):
+                            j["items"][u] = {"date": m.get("date"), "title": html.unescape((m.get("title") or {}).get("rendered", "")), "q": q}
+                    pg += 1
+            j["listed2"] = True; save(out, j)
             log(f"ccj: {len(j['items'])} Barbados appellate judgment PDFs listed")
         for u in sorted(j["items"]):
             if u in j["fetched"] or os.path.exists(STOP):
